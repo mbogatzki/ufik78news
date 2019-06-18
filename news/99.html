@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2019-06-08</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="99">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2019-06-08</h2>
+    <p>00. <a href="https://web.dev/long-tasks-devtools/" target="_blank">Link</a> - Are long JavaScript tasks delaying your Time to Interactive?</p>
+<p>01. <a href="http://2ality.com/2019/05/unpacking-hoisting.html" target="_blank">Link</a> - Unpacking hoisting</p>
+<p>02. <a href="https://www.twilio.com/blog/mediastream-recording-api" target="_blank">Link</a> - An introduction to the MediaRecorder API</p>
+<p>03. <a href="https://jasonformat.com/enabling-modern-js-on-npm/" target="_blank">Link</a> - Enabling Modern JavaScript on npm</p>
+<p>04. <a href="https://softwareontheroad.com/nodejs-jwt-authentication-oauth/" target="_blank">Link</a> - You don't need passport.js - Guide to node.js authentication</p>
+<p>05. <a href="https://csswizardry.com/2019/05/self-host-your-static-assets/" target="_blank">Link</a> - Self-Host Your Static Assets</p>
+<p>06. <a href="https://devinduct.com/blogpost/26/8-useful-javascript-tricks" target="_blank">Link</a> - 8 Useful JavaScript Tricks</p>
+<p>07. <a href="https://github.com/tc39/proposal-optional-chaining" target="_blank">Link</a> - Optional Chaining for JavaScript</p>
+<p>08. <a href="https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md" target="_blank">Link</a> - The economics of package management</p>
+    <img loading="lazy" src="../images/2019-06-08.jpg">
+
+  </body>
+</html>

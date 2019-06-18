@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2018-12-01</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="77">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2018-12-01</h2>
+    <p>00. <a href="https://verve.co/engineering/graphql-a-retrospective/" target="_blank">Link</a> - GraphQL: A retrospective</p>
+<p>01. <a href="https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f" target="_blank">Link</a> - Writing memory efficient software applications in Node.js</p>
+<p>02. <a href="https://www.coreycleary.me/why-you-should-isolate-express-from-the-rest-of-your-node-application/" target="_blank">Link</a> - Why you should isolate Express from the rest of your Node application</p>
+<p>03. <a href="https://blog.erratasec.com/2018/11/some-notes-about-http3.html" target="_blank">Link</a> - Some notes about HTTP/3</p>
+<p>04. <a href="https://kinsta.com/learn/what-is-http2/" target="_blank">Link</a> - What is HTTP/2 – The Ultimate Guide</p>
+<p>05. <a href="https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/" target="_blank">Link</a> - WebAssembly’s post-MVP future: A cartoon skill tree</p>
+<p>06. <a href="https://logrocket.com/blog/switching-to-parcel-from-webpack/" target="_blank">Link</a> - Switching to Parcel from Webpack</p>
+<p>07. <a href="https://www.youtube.com/watch?v=aHHZu-i5hpE" target="_blank">Link</a> - Math In JavaScript Can Be Awesome - Dominic Kramer, Google</p>
+    <img loading="lazy" src="../images/2018-12-01.jpg">
+
+  </body>
+</html>

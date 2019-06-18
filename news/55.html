@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2018-06-10</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="55">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2018-06-10</h2>
+    <p>00. <a href="https://hacks.mozilla.org/2018/06/overscripted-digging-into-javascript-execution-at-scale/" target="_blank">Link</a> - Overscripted! Digging into JavaScript execution at scale</p>
+<p>01. <a href="https://www.chenhuijing.com/blog/math-and-front-end/" target="_blank">Link</a> - Math and front-end</p>
+<p>02. <a href="https://pawelgrzybek.com/cpp-for-javascript-developers/" target="_blank">Link</a> - C++ for JavaScript developers</p>
+<p>03. <a href="https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37" target="_blank">Link</a> - Level up your CSS selector skills</p>
+<p>04. <a href="https://www.youtube.com/watch?v=M3BM9TB-8yA" target="_blank">Link</a> - 10 Things I Regret About Node.js - Ryan Dahl</p>
+    <img loading="lazy" src="../images/2018-06-10.jpg">
+
+  </body>
+</html>

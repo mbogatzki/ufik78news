@@ -1,1 +1,4 @@
 .DS_Store
+node_modules
+wykop_temp
+news.txt

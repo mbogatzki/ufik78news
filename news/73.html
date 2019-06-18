@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2018-11-03</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="73">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2018-11-03</h2>
+    <p>00. <a href="https://paulmillr.com/posts/using-dark-mode-in-css/" target="_blank">Link</a> - Using dark mode in CSS with MacOS Mojave</p>
+<p>01. <a href="https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with" target="_blank">Link</a> - Microservices Are Something You Grow Into, Not Begin With</p>
+<p>02. <a href="https://3perf.com/talks/web-perf-101/" target="_blank">Link</a> - Web Performance 101</p>
+<p>03. <a href="https://smalldata.tech/blog/2018/11/01/copying-objects-in-javascript" target="_blank">Link</a> - Copying objects in JavaScript</p>
+<p>04. <a href="https://github.com/stephomi/sculptgl" target="_blank">Link</a> - A WebGL sculpting stuff</p>
+    <img loading="lazy" src="../images/2018-11-03.jpg">
+
+  </body>
+</html>

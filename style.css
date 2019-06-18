@@ -1,0 +1,45 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+}
+body {
+  background-color:#1c1b19;
+  color:#ddd;
+  font-size:18px;
+  line-height:1.6;
+  margin:10px auto;
+  max-width:650px;
+  padding:0 10px;
+  box-sizing:content-box;
+}
+body[data-id="0"] #prev{
+  display:none;
+}
+body[data-id="last"] #next{
+  display:none;
+}
+a{color:#68a8e4}
+a:visited{color:#519f50}
+a:hover{color:#2c78bf}
+h1{line-height:1.2}
+img{
+  max-width: 100%;
+}
+#prev,
+#next {
+  background-color: #2c78bf;
+  color: #ddd;
+  font-size: 16px;
+  border: 0;
+  padding: 5px 10px;
+  height: 100%;
+  display: inline-block;
+}
+#next {
+  align-self:flex-end;
+  margin-left: auto;
+}
+#prev {
+  align-self:flex-start;
+}

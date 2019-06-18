@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2019-06-14</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="100">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2019-06-14</h2>
+    <p>00. <a href="https://blog.greenroots.info/metaprogramming-an-introduction-to-javascriptes6-proxy-cjwkk64ly000gvds10db4l034" target="_blank">Link</a> - Metaprogramming: An Introduction to JavaScript(ES6) Proxy</p>
+<p>01. <a href="https://github.com/lydiahallie/javascript-questions" target="_blank">Link</a> - List of (Advanced) JavaScript Questions</p>
+<p>02. <a href="https://dassur.ma/things/when-workers/" target="_blank">Link</a> - When should you be using Web Workers?</p>
+<p>03. <a href="https://www.richsnapp.com/blog/2019/06-09-reduce-spread-anti-pattern" target="_blank">Link</a> - The reduce ({...spread}) anti-pattern</p>
+<p>04. <a href="https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables" target="_blank">Link</a> - Why we prefer CSS Custom Properties to SASS variables</p>
+<p>05. <a href="https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/" target="_blank">Link</a> - 7 absolute truths I unlearned as junior developer</p>
+<p>06. <a href="https://www.hillelwayne.com/post/intermediate-vim/" target="_blank">Link</a> - At least one Vim trick you might not know</p>
+    <img loading="lazy" src="../images/2019-06-14.jpg">
+
+  </body>
+</html>

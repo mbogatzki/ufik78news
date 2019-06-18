@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2017-03-09</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="7">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2017-03-09</h2>
+    <p>00. <a href="http://blog.benoitvallon.com/" target="_blank">Link</a> - Bardzo dużo ciekawych wpisów o sortowaniu i strukturach danych w JavaScript.</p>
+<p>01. <a href="http://thefullstack.xyz/javascript-newsletters/" target="_blank">Link</a> - 5 Rock Solid JavaScript Newsletters</p>
+    
+
+  </body>
+</html>

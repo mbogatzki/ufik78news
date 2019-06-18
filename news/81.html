@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2019-01-20</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="81">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2019-01-20</h2>
+    <p>00. <a href="https://projects.lukehaas.me/runjs/" target="_blank">Link</a> - Scratchpad for JavaScript</p>
+<p>01. <a href="https://www.sitepen.com/blog/compiling-go-to-webassembly/" target="_blank">Link</a> - Compiling Go to WebAssembly</p>
+<p>02. <a href="https://cathydutton.co.uk/posts/why-i-stopped-using-sass/" target="_blank">Link</a> - Stepping away from Sass</p>
+<p>03. <a href="https://webapplog.com/graphql/" target="_blank">Link</a> - Why GraphQL is Taking Over APIs</p>
+<p>04. <a href="https://www.youtube.com/watch?v=b5tK0-tQxZw" target="_blank">Link</a> - Czym jest TypeScript?</p>
+    <img loading="lazy" src="../images/2019-01-20.jpg">
+
+  </body>
+</html>

@@ -1,0 +1,4588 @@
+[
+  {
+    "date": "2017-01-16",
+    "img": null,
+    "links": [
+      {
+        "link": "https://kellegous.com/j/2013/02/27/innertext-vs-textcontent/",
+        "title": "Innertext vs textcontent (spora różnica w wydajności)"
+      },
+      {
+        "link": "https://libraries.io/",
+        "title": "Portal na którym można zapisać się na subskrypcję gdy jakaś paczka będzie miała release"
+      },
+      {
+        "link": "https://github.com/ryanmcdermott/clean-code-javascript",
+        "title": "Clean Code JavaScript"
+      },
+      {
+        "link": "https://github.com/ModClean/modclean",
+        "title": "Remove unwanted files and directories from your node_modules folder"
+      },
+      {
+        "link": "https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3",
+        "title": "12 książek, które każdy JS developer powinien przeczytać"
+      },
+      {
+        "link": "https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665",
+        "title": "How to get a performance boost using webassembly"
+      },
+      {
+        "link": "https://community.risingstack.com/opencv-tutorial-computer-vision-with-node-js/",
+        "title": "OpenCV tutorial computer vision with node.js"
+      },
+      {
+        "link": "https://blog.hospodarets.com/native-ecmascript-modules-the-first-overview",
+        "title": "Native ECMAScript modules the first overview"
+      },
+      {
+        "link": "http://fuse-box.org",
+        "title": "Chyba najszybszy bundler"
+      },
+      {
+        "link": "https://github.com/wybiral/quantum",
+        "title": "Quantum Circuit Simulator, link jest do repo, ale jest tam też link do dema"
+      }
+    ]
+  },
+  {
+    "date": "2017-01-23",
+    "img": null,
+    "links": [
+      {
+        "link": "https://quorrajs.org",
+        "title": "QuorraJS - bardzo ciekawy framework, naprawdę warto rzucić okiem"
+      },
+      {
+        "link": "https://hackernoon.com/how-to-set-up-functional-testing-for-a-web-app-from-scratch-in-5-minutes-8055e5d41882#.cw9j1mmrz",
+        "title": "How to set up functional testing for a web app from scratch in 5 minutes"
+      },
+      {
+        "link": "http://mojs.io",
+        "title": "Super efekty do robienia animacji w JS - zobaczcie sobie demo"
+      },
+      {
+        "link": "https://hackernoon.com/5-best-javascript-frameworks-in-2017-7a63b3870282#.gpj96zf6b",
+        "title": "5 Best JavaScript Frameworks in 2017"
+      },
+      {
+        "link": "https://vmayakumar.wordpress.com/2017/01/17/functional-programing-in-javascript/",
+        "title": "Esencja programowania funkcyjnego w JS"
+      },
+      {
+        "link": "http://www.jsbenchmarks.com/?anywhichway/union/master/benchmark.js",
+        "title": "Ciekawy benchmark gdzie można testować kod z githuba"
+      },
+      {
+        "link": "https://auth0.com/blog/a-brief-history-of-javascript/?utm_source=echojs&amp;utm_medium=sc&amp;utm_campaign=javascript_history",
+        "title": "A Brief History of JavaScript"
+      },
+      {
+        "link": "https://community.risingstack.com/how-to-find-node-js-performance-optimization-killers/",
+        "title": "How to find Node.js Performance Optimization Killers"
+      },
+      {
+        "link": "https://anvaka.github.io/common-words/#?lang=js",
+        "title": "Ot taka ciekawostka najczęściej używane słowa w JS i innych językach"
+      },
+      {
+        "link": "https://www.contentful.com/blog/2017/01/17/the-global-object-in-javascript/",
+        "title": "Obiekt globalny w JS"
+      }
+    ]
+  },
+  {
+    "date": "2017-01-30",
+    "img": null,
+    "links": [
+      {
+        "link": "https://hackernoon.com/microservice-series-scraper-ee970df3e81f#.p35e87802",
+        "title": "Microservice Series: Scraper in Node.js"
+      },
+      {
+        "link": "https://snyk.io/blog/redos-and-catastrophic-backtracking/",
+        "title": "Regular Expression Denial of Service and Catastrophic Backtracking"
+      },
+      {
+        "link": "http://www.zsoltnagy.eu/understanding-the-console-api-in-javascript-7-tips-for-smoother-debugging/",
+        "title": "Understanding the Console API in JavaScript – 7 Tips for Smoother Debugging"
+      },
+      {
+        "link": "https://blog.daftcode.pl/how-to-make-uploading-10x-faster-f5b3f9cfcd52#.cejh9tg0p",
+        "title": "How to Make Uploading 10x Faster"
+      },
+      {
+        "link": "https://github.com/oliver-moran/jimp",
+        "title": "Jimp - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies "
+      },
+      {
+        "link": "https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer",
+        "title": "9 Fantastic Utilities for the Node.js Developer"
+      },
+      {
+        "link": "https://davidwalsh.name/spread-operator",
+        "title": "6 Great Uses of the Spread Operator"
+      },
+      {
+        "link": "https://www.sitepoint.com/building-facebook-chat-bot-node-heroku/",
+        "title": "Building a Facebook Chat Bot with Node and Heroku"
+      },
+      {
+        "link": "https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/",
+        "title": "How I wrote the world's fastest JavaScript memoization library"
+      },
+      {
+        "link": "http://www.jomendez.com/2017/01/25/copy-clipboard-using-javascript/",
+        "title": "How to copy to clipboard using JavaScript"
+      }
+    ]
+  },
+  {
+    "date": "2017-02-06",
+    "img": null,
+    "links": [
+      {
+        "link": "https://www.reddit.com/r/javascript/comments/5r9vay/frontend_developer_handbook_2017/dd5zfi8/",
+        "title": "Front-End Developer Handbook 2017"
+      },
+      {
+        "link": "https://nodejs.org/static/documents/casestudies/Node_CaseStudy_Nasa_FNL.pdf",
+        "title": "Node.js Helps NASA keep astronauts safe and data accessible"
+      },
+      {
+        "link": "https://www.losant.com/blog/speech-synthesis-on-the-raspberry-pi-using-node.js",
+        "title": "Speech synthesis on the raspberry pi using node.js"
+      },
+      {
+        "link": "http://www.2ality.com/2017/01/shared-array-buffer.html",
+        "title": "ES proposal: Shared memory and atomics"
+      },
+      {
+        "link": "http://jrsinclair.com/articles/2017/indentation-is-the-enemy-less-complex-javascript/",
+        "title": "Indentation is the enemy: writing less complex javascript"
+      },
+      {
+        "link": "https://channel9.msdn.com/Blogs/msedgedev/nolanlaw-web-perf-crisis",
+        "title": "Solving the Web Performance Crisis"
+      },
+      {
+        "link": "https://medium.com/@steida/css-in-js-the-argument-refined-471c7eb83955#.57uzbei5p",
+        "title": "CSS in JS: The Argument Refined"
+      },
+      {
+        "link": "https://ponyfoo.com/articles/standard",
+        "title": "The JavaScript Standard"
+      },
+      {
+        "link": "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261#.r62fsjgl3",
+        "title": "Master the JavaScript Interview: What is a Promise?"
+      },
+      {
+        "link": "https://blog.socratic.org/stepping-into-math-open-sourcing-our-step-by-step-solver-9b5da066ae36#.kxzoog926",
+        "title": "Stepping into math: Open-sourcing our step-by-step solver"
+      }
+    ]
+  },
+  {
+    "date": "2017-02-14",
+    "img": null,
+    "links": [
+      {
+        "link": "https://www.contentful.com/blog/2017/01/17/the-global-object-in-javascript/",
+        "title": "The global object in JavaScript"
+      },
+      {
+        "link": "https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.57br5dy4f",
+        "title": "Parsing absolutely anything in JavaScript using Earley algorithm"
+      },
+      {
+        "link": "http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-real-world",
+        "title": "Node.js for the Real World"
+      },
+      {
+        "link": "https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/",
+        "title": "Yarn vs npm - The State of Node.js Package Managers"
+      },
+      {
+        "link": "https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/",
+        "title": "Node.js Async Best Practices &amp; Avoiding Callback Hell"
+      },
+      {
+        "link": "https://nodesource.com/node-by-numbers",
+        "title": "Node by numbers"
+      },
+      {
+        "link": "https://rsms.me/wasm-intro",
+        "title": "Introduction to WebAssembly"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=88OLQ_fb2Oo",
+        "title": "Real-Life Node.js Troubleshooting by Damian Schenkelman"
+      },
+      {
+        "link": "http://mxstbr.blog/2017/01/your-first-node-microservice/",
+        "title": "Build your first Node.js microservice"
+      },
+      {
+        "link": "http://www.thedotpost.com/2016/12/goncalo-morais-binary-in-javascript",
+        "title": "Binary in JavaScript"
+      }
+    ]
+  },
+  {
+    "date": "2017-02-20",
+    "img": null,
+    "links": [
+      {
+        "link": "https://www.youtube.com/watch?v=88OLQ_fb2Oo",
+        "title": "Real-Life Node.js Troubleshooting by Damian Schenkelman"
+      },
+      {
+        "link": "http://www.applandeo.com/en/functional-like-data-manipulation-javascript/",
+        "title": "Functional-like data manipulation in JavaScript"
+      },
+      {
+        "link": "https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/",
+        "title": "Concurrency and Parallelism: Understanding I/O"
+      },
+      {
+        "link": "http://www.programwitherik.com/how-to-create-a-linked-list-and-stack-in-javascript-2/",
+        "title": "How to create a linked list and stack in JS"
+      },
+      {
+        "link": "https://davidwalsh.name/system-notifications-node",
+        "title": "System notifications in Node"
+      },
+      {
+        "link": "https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.bkcqbzocz",
+        "title": "JavaScript start up performance"
+      },
+      {
+        "link": "https://lockmedown.com/docker-4-devs-containerizing-app/",
+        "title": "Docker 4 devs"
+      },
+      {
+        "link": "https://v8project.blogspot.jp/2017/02/high-performance-es2015-and-beyond.html",
+        "title": "High performance ES2015 and beyond"
+      },
+      {
+        "link": "https://auth0.com/blog/glossary-of-modern-javascript-concepts/",
+        "title": "Glossary of modern JavaScript concepts"
+      },
+      {
+        "link": "https://asafdav2.github.io/2017/node-js-timers",
+        "title": "Node.js timers"
+      }
+    ]
+  },
+  {
+    "date": "2017-02-26",
+    "img": null,
+    "links": [
+      {
+        "link": "https://blog.ghaiklor.com/how-nodejs-requires-native-shared-objects-63648092f178",
+        "title": "How node.js requires native shared objects"
+      },
+      {
+        "link": "https://codetower.github.io/es6-features/",
+        "title": "ES6 features"
+      },
+      {
+        "link": "http://www.zsoltnagy.eu/es6-proxies-in-practice/",
+        "title": "ES6 proxies in practice"
+      },
+      {
+        "link": "http://jrsinclair.com/articles/2017/javascript-without-loops/",
+        "title": "JavaScript without loops"
+      },
+      {
+        "link": "https://blog.jcoglan.com/2011/03/06/monad-syntax-for-javascript/",
+        "title": "Monad syntax for JavaScript"
+      },
+      {
+        "link": "https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257#.39y77hz2c",
+        "title": "Why learn functional programming in JavaScript composing software"
+      },
+      {
+        "link": "https://hackernoon.com/rethinking-javascript-eliminate-the-switch-statement-for-better-code-5c81c044716d#.t04o5yfi7",
+        "title": "Rethinking JavaScript: Eliminate the switch statement for better code "
+      },
+      {
+        "link": "https://medium.com/@alexewerlof/what-stack-should-i-use-for-a-spa-d3bdbad69cf7#.7z9c9y4po",
+        "title": "What tech stack should I use for my SPA?"
+      },
+      {
+        "link": "http://blog.cleancoder.com/uncle-bob/2017/02/23/NecessaryComments.html",
+        "title": "Necessary Comments"
+      },
+      {
+        "link": "https://medium.com/@nfroidure/i-am-full-stack-stop-negating-me-40798ffe5b1#.3dzacy9fs",
+        "title": "I am full-stack, stop negating me"
+      }
+    ]
+  },
+  {
+    "date": "2017-03-09",
+    "img": null,
+    "links": [
+      {
+        "link": "http://blog.benoitvallon.com/",
+        "title": "Bardzo dużo ciekawych wpisów o sortowaniu i strukturach danych w JavaScript."
+      },
+      {
+        "link": "http://thefullstack.xyz/javascript-newsletters/",
+        "title": "5 Rock Solid JavaScript Newsletters"
+      }
+    ]
+  },
+  {
+    "date": "2017-03-19",
+    "img": null,
+    "links": [
+      {
+        "link": "https://github.com/donnemartin/system-design-primer",
+        "title": "System design primer"
+      },
+      {
+        "link": "http://www.jstips.co/en/javascript/3-array-hacks/",
+        "title": "3 array hacks"
+      },
+      {
+        "link": "https://ponyfoo.com/articles/observables-coming-to-ecmascript",
+        "title": "Observables coming to ecmascript"
+      },
+      {
+        "link": "http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/",
+        "title": "Setimmediate vs nexttick vs settimeout"
+      },
+      {
+        "link": "https://tympanus.net/codrops/css_reference/grid/",
+        "title": "CSS Grid zawitał już do Firefoxa i Chroma, więc link do wstępu do CSS Grid"
+      },
+      {
+        "link": "https://medium.com/javascript-scene/functors-categories-61e031bac53f#.uqwvype4l",
+        "title": "Functors categories"
+      },
+      {
+        "link": "https://medium.com/javascript-scene/time-complexity-big-o-notation-1a4310c3ee4b#.if3e91kl2",
+        "title": "Time complexity big O notation"
+      },
+      {
+        "link": "https://rohan.almeida.in/2017/03/16/benchmarking-your-javascript-code/",
+        "title": "Benchmarking your javascript code"
+      }
+    ]
+  },
+  {
+    "date": "2017-03-30",
+    "img": null,
+    "links": [
+      {
+        "link": "https://blog.qmo.io/common-problems-when-developing-a-node-js-web-application",
+        "title": "Common problems when developing a node.js web application"
+      },
+      {
+        "link": "https://medium.com/@matansokolovsky/es7-async-await-pitfalls-d24331388a70#.ce4iz16ec",
+        "title": "ES7 async await pitfalls"
+      },
+      {
+        "link": "https://medium.com/javascript-inside/safely-accessing-deeply-nested-values-in-javascript-99bf72a0855a#.nmnqria0h",
+        "title": "Safely accessing deeply nested values in javascript"
+      },
+      {
+        "link": "https://community.risingstack.com/ive-been-a-web-developer-for-17-years-and-this-is-what-i-learned-daniel-khan",
+        "title": "I've been a web developer for 17 years and this is what I learned"
+      },
+      {
+        "link": "https://gziolo.pl/2017/03/24/refactoring-to-functional-javascript-part-1-fundamentals",
+        "title": "Refactoring to functional"
+      },
+      {
+        "link": "http://jrsinclair.com/articles/2017/javascript-but-less-iffy",
+        "title": "JavaScript but less iffy"
+      },
+      {
+        "link": "https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.46zl88sad",
+        "title": "TDD the rite way"
+      },
+      {
+        "link": "http://asciimath.org",
+        "title": "asciimathml"
+      },
+      {
+        "link": "https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf",
+        "title": "Preload, prefetch and priorities in chrome"
+      },
+      {
+        "link": "https://hackernoon.com/you-too-can-read-disassembly-d47a3be74010#.9c4616rv2",
+        "title": "You too can read disassembly"
+      }
+    ]
+  },
+  {
+    "date": "2017-04-30",
+    "img": null,
+    "links": [
+      {
+        "link": "https://medium.com/@_lrlna/garbage-collection-in-v8-an-illustrated-guide-d24a952ee3b8",
+        "title": "Garbage collection in V8 an illustrated guide"
+      },
+      {
+        "link": "https://medium.com/the-node-js-collection/what-does-const-stand-for-in-es6-f7ab3d9e06fc",
+        "title": "What does const stand for in ES6"
+      },
+      {
+        "link": "https://alistapart.com/article/practical-grid",
+        "title": "Practical grid"
+      },
+      {
+        "link": "http://jlongster.com/How-I-Became-Better-Programmer",
+        "title": "How I became better programmer"
+      },
+      {
+        "link": "https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-1.html",
+        "title": "Structure and Interpretation of Computer Programs"
+      },
+      {
+        "link": "http://sijinjoseph.com/programmer-competency-matrix",
+        "title": "Programmer competency matrix"
+      },
+      {
+        "link": "https://github.com/charto/nbind#readme",
+        "title": "Magical headers that make your C++ library accessible from JavaScript"
+      },
+      {
+        "link": "https://blog.logrocket.com/using-the-chrome-devtools-new-code-coverage-feature-ca96c3dddcaf",
+        "title": "Using the chrome devtools new code coverage feature"
+      },
+      {
+        "link": "http://thad.frogley.info/archive/the_greatest_program.html",
+        "title": "The greatest program"
+      },
+      {
+        "link": "https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9",
+        "title": "6 reasons why javascripts async await blows promises away tutorial"
+      }
+    ]
+  },
+  {
+    "date": "2017-05-21",
+    "img": null,
+    "links": [
+      {
+        "link": "https://www.bignerdranch.com/blog/asyncing-feeling-about-javascript-generators/",
+        "title": "Asyncing feeling about javascript generators"
+      },
+      {
+        "link": "http://viewsourcecode.org/snaptoken/kilo/index.html",
+        "title": "Build Your Own Text Editor in C"
+      }
+    ]
+  },
+  {
+    "date": "2017-05-26",
+    "img": null,
+    "links": [
+      {
+        "link": "https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358",
+        "title": "The state of JavaScript modules"
+      },
+      {
+        "link": "https://medium.com/@roman01la/code-is-data-reasoning-1cfccc840e53",
+        "title": "Code is data reasoning"
+      },
+      {
+        "link": "https://github.com/mbasso/asm-dom",
+        "title": "A minimal WebAssembly virtual DOM focused on performance"
+      },
+      {
+        "link": "https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4",
+        "title": "Debugging Node.js with Google Chrome"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=EdFDJANJJLs",
+        "title": "V8, Advanced JavaScript, &amp; the Next Performance Frontier (Google I/O '17)"
+      },
+      {
+        "link": "https://medium.freecodecamp.com/node-js-streams-everything-you-need-to-know-c9141306be93",
+        "title": "Node.js Streams: Everything you need to know"
+      },
+      {
+        "link": "https://www.lunchbadger.com/build-load-balancer-express/",
+        "title": "How to build a load balancer with Express"
+      },
+      {
+        "link": "https://medium.freecodecamp.com/you-might-not-need-to-transpile-your-javascript-4d5e0a438ca",
+        "title": "You might not need to transpile your JavaScript"
+      }
+    ]
+  },
+  {
+    "date": "2017-05-27",
+    "img": null,
+    "links": [
+      {
+        "link": "http://www.iquilezles.org/www/index.htm",
+        "title": "These are written articles on the techniques I develop for my computer graphics experiments, demos, shadertoys and movies"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=s8nFqwOho-s",
+        "title": "NVScene 2015 Session: How to Create Content with Signed Distance Functions (Johann Korndorfer)"
+      },
+      {
+        "link": "http://www.creativejs.com/category/demoscene-2/index.html",
+        "title": "CreativeJS demoscene"
+      },
+      {
+        "link": "https://www.chromeexperiments.com/demoscene",
+        "title": "Chrome experiments demoscene"
+      },
+      {
+        "link": "https://acko.net/blog/js1k-demo-the-making-of/",
+        "title": "Making of 1K JS Demo"
+      }
+    ]
+  },
+  {
+    "date": "2017-06-24",
+    "img": null,
+    "links": [
+      {
+        "link": "https://www.gitbook.com/book/0xax/linux-insides/details",
+        "title": "Linux insides Book"
+      },
+      {
+        "link": "https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242/",
+        "title": "RE guide for beginners: Methodology and tools"
+      },
+      {
+        "link": "https://www.sitepoint.com/shorthand-javascript-techniques/",
+        "title": "Shorthand JavaScript techniques"
+      },
+      {
+        "link": "https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb",
+        "title": "Python Data Science Handbook"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/",
+        "title": "A crash course in memory management"
+      },
+      {
+        "link": "https://github.com/Kyubyong/sudoku",
+        "title": "Can Neural Networks Crack Sudoku?"
+      },
+      {
+        "link": "https://medium.freecodecamp.com/node-js-child-processes-everything-you-need-to-know-e69498fe970a",
+        "title": "Node.js child processes everything you need to know"
+      },
+      {
+        "link": "https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-1/",
+        "title": "JavaScript for microcontrollers and IoT"
+      },
+      {
+        "link": "https://performancejs.com/post/ewffd34/Introducing:-Lazy-arrays-in-JavaScript",
+        "title": "Introducing: Lazy arrays in JavaScript"
+      },
+      {
+        "link": "https://certsimple.com/blog/javascript-equals-async-await",
+        "title": "JavaScript equals async await"
+      },
+      {
+        "link": "https://medium.com/@alexdixon/functional-programming-in-javascript-is-an-antipattern-58526819f21e",
+        "title": "Functional programming in JavaScript is an antipattern"
+      },
+      {
+        "link": "https://github.com/intercellular/cell",
+        "title": "A self-driving web app framework"
+      }
+    ]
+  },
+  {
+    "date": "2017-07-30",
+    "img": null,
+    "links": [
+      {
+        "link": "https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c",
+        "title": "What you should know to really understand the node.js event loop and it's metrics"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc",
+        "title": "Scaling node.js applications"
+      },
+      {
+        "link": "http://ruder.io/deep-learning-nlp-best-practices/",
+        "title": "Deep learning NLP - best practices"
+      },
+      {
+        "link": "http://www.fast.ai/2017/07/17/num-lin-alg/",
+        "title": "New fast.ai course: Computational Linear Algebra"
+      }
+    ]
+  },
+  {
+    "date": "2017-08-05",
+    "img": null,
+    "links": [
+      {
+        "link": "http://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html",
+        "title": "What's up with monomorphism?"
+      },
+      {
+        "link": "https://benmccormick.org/2017/07/19/ten-things-javascript/",
+        "title": "Ten Things A Serious JavaScript Developer Should Learn"
+      },
+      {
+        "link": "http://karpathy.github.io/neuralnets/",
+        "title": "Hacker's guide to Neural Networks"
+      },
+      {
+        "link": "https://deepstreamhub.com/tutorials/protocols/webrtc-intro/",
+        "title": "A real world guide to WebRTC"
+      },
+      {
+        "link": "http://www.vizitsolutions.com/portfolio/webgl/gpgpu/index.html",
+        "title": "Your Guide to GPGPU with WebGL"
+      },
+      {
+        "link": "http://benediktmeurer.de/2017/07/14/faster-collection-iterators/",
+        "title": "Faster Collection Iterators"
+      },
+      {
+        "link": "http://www.pcworld.com/article/2984716/laptop-computers/how-to-transform-your-laptop-into-a-gaming-powerhouse-with-an-external-graphics-card.html?page=1",
+        "title": "How to transform your laptop into a gaming powerhouse with an external graphics card"
+      },
+      {
+        "link": "https://github.com/denysdovhan/wtfjs#readme",
+        "title": "What the f*ck JavaScript?"
+      },
+      {
+        "link": "http://www.vincecampanale.com/blog/2017/06/22/const-or-let/",
+        "title": "Use const Until You Have to Use let"
+      },
+      {
+        "link": "https://zellwk.com/blog/this/",
+        "title": "This in JavaScript"
+      },
+      {
+        "link": "https://v8project.blogspot.com/2017/08/v8-release-61.html",
+        "title": "V8 Release 6.1"
+      },
+      {
+        "link": "https://ponyfoo.com/articles/null-propagation-operator",
+        "title": "Null Propagation Operator in JavaScript"
+      },
+      {
+        "link": "http://blog.88mph.io/2017/07/28/understanding-service-workers/",
+        "title": "Understanding Service Workers"
+      }
+    ]
+  },
+  {
+    "date": "2017-08-26",
+    "img": null,
+    "links": [
+      {
+        "link": "https://github.com/zeeshanu/learn-regex",
+        "title": "Learn regex the easy way"
+      },
+      {
+        "link": "https://www.sitepoint.com/headless-chrome-node-js/",
+        "title": "Getting Started with Headless Chrome in Node.js"
+      },
+      {
+        "link": "https://www.twilio.com/blog/2017/08/js-hardware-getting-started-with-nodebots-and-johnny-five.html",
+        "title": "Getting started with Nodebots and Johnny-Five"
+      },
+      {
+        "link": "https://medium.com/@schahriar/n-api-and-getting-started-with-writing-c-addons-for-node-js-cf061b3eae75",
+        "title": "N-API and getting started with writing C addons for Node.js"
+      },
+      {
+        "link": "http://benediktmeurer.de/2017/08/10/frozen-prototypes/",
+        "title": "Frozen Prototypes"
+      },
+      {
+        "link": "https://codeburst.io/an-introduction-to-web-scraping-with-node-js-1045b55c63f7",
+        "title": "An Introduction to Web Scraping with Node JS"
+      },
+      {
+        "link": "https://www.alexkras.com/using-code-snippets-in-chrome-developer-tools",
+        "title": "Using Code Snippets in Chrome Developer Tools"
+      },
+      {
+        "link": "https://medium.com/dev-channel/increase-your-web-development-skill-set-150-animated-tips-on-chrome-devtools-4a30155e6b8e",
+        "title": "Increase your web development skill-set: 150 animated tips on Chrome DevTools"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/",
+        "title": "A crash course in just-in-time (JIT) compilers"
+      },
+      {
+        "link": "https://developers.google.com/web/fundamentals/architecture/building-components/customelement://developers.google.com/web/fundamentals/architecture/building-components/customelements",
+        "title": "Custom Elements v1: Reusable Web Components"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo",
+        "title": "Inside a super fast CSS engine: Quantum CSS (aka Stylo)"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2",
+        "title": "All the fundamental React.js concepts, jammed into this single Medium article"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49",
+        "title": "How to create a Neural Network in JavaScript in only 30 lines of code"
+      }
+    ]
+  },
+  {
+    "date": "2017-09-03",
+    "img": null,
+    "links": [
+      {
+        "link": "http://v8project.blogspot.com/2017/08/fast-properties.html",
+        "title": "Fast properties"
+      },
+      {
+        "link": "http://developingthoughts.co.uk/building-a-maybe-in-javascript/",
+        "title": "Building a maybe in JavaScript"
+      },
+      {
+        "link": "https://webkit.org/blog/7846/concurrent-javascript-it-can-work/",
+        "title": "Concurrent JavaScript it can work"
+      },
+      {
+        "link": "http://thejsguy.com/2017/08/27/iterables-and-iterators-in-javascript.html",
+        "title": "Iterables and iterators in JavaScript"
+      },
+      {
+        "link": "https://medium.com/the-node-js-collection/async-hooks-in-node-js-illustrated-b7ce1344111f",
+        "title": "Async hooks in node.js illustrated"
+      },
+      {
+        "link": "https://hackernoon.com/a-sketch-note-guide-to-node-js-streams-part-1-6db88e32623a",
+        "title": "A sketch note guide to node.js streams part 1"
+      },
+      {
+        "link": "https://preactjs.com/about/we-are-using",
+        "title": "Preact.js"
+      },
+      {
+        "link": "https://blog.patricktriest.com/what-is-async-await-why-should-you-care/",
+        "title": "What is async await why should you care"
+      },
+      {
+        "link": "http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/",
+        "title": "Which gpu for deep learning"
+      },
+      {
+        "link": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+        "title": "The birth and death of JavaScript"
+      }
+    ]
+  },
+  {
+    "date": "2017-09-16",
+    "img": null,
+    "links": [
+      {
+        "link": "https://bundlephobia.com/",
+        "title": "Find the cost of adding a npm package to your bundle"
+      },
+      {
+        "link": "https://www.heartinternet.uk/blog/discover-the-power-of-css-transforms/",
+        "title": "Discover the Power of CSS Transforms"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/how-i-recreated-the-music-video-gorillazs-andromeda-with-webgl-f9b0fe55fb17",
+        "title": "How I Recreated the Gorillaz Andromeda music video using WebGL"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2017/09/bootcamps-webassembly-and-computer-vision/",
+        "title": "Experimenting with WebAssembly and Computer Vision"
+      },
+      {
+        "link": "https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec",
+        "title": "How JavaScript works: memory management + how to handle 4 common memory leaks"
+      },
+      {
+        "link": "https://micro-frontends.org/",
+        "title": "Extending the microservice idea to frontend development"
+      },
+      {
+        "link": "http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html",
+        "title": "What's Functional Programming All About?"
+      },
+      {
+        "link": "https://cstack.github.io/db_tutorial/",
+        "title": "Writing a sqlite clone from scratch in C"
+      },
+      {
+        "link": "https://sanctum.geek.nz/arabesque/series/unix-as-ide/",
+        "title": "Unix as IDE"
+      },
+      {
+        "link": "https://www.privacytools.io/",
+        "title": "Privacy tools"
+      },
+      {
+        "link": "https://www.smashingmagazine.com/2017/09/guide-virtual-reality-web-developers/",
+        "title": "A Guide To Virtual Reality For Web Developers"
+      },
+      {
+        "link": "http://2ality.com/2017/09/native-esm-node.html",
+        "title": "Using ES modules natively in Node.js"
+      },
+      {
+        "link": "https://monades.roperzh.com/get-to-know-the-actor-model/",
+        "title": "Get to know the Actor Model"
+      },
+      {
+        "link": "https://developers.google.com/web/updates/2017/09/nic61",
+        "title": "New in Chrome 61 - WebUSB API"
+      },
+      {
+        "link": "https://nodejs.org/en/blog/release/v8.5.0/",
+        "title": "Node v8.5.0 (Current)"
+      },
+      {
+        "link": "https://v8project.blogspot.co.uk/2017/09/v8-release-62.html",
+        "title": "V8 Release 6.2"
+      }
+    ]
+  },
+  {
+    "date": "2017-09-22",
+    "img": null,
+    "links": [
+      {
+        "link": "https://github.com/jeromeetienne/AR.js",
+        "title": "Efficient Augmented Reality for the Web - 60fps on mobile!"
+      },
+      {
+        "link": "https://blog.risingstack.com/mastering-the-node-js-core-modules-the-process-module/",
+        "title": "Mastering the Node.js Core Modules - The Process Module"
+      },
+      {
+        "link": "https://boneskull.com/diy-object-recognition/",
+        "title": "DIY Object Recognition with Raspberry Pi, Node.js, &amp; Watson"
+      },
+      {
+        "link": "https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/",
+        "title": "Chrome to force .dev domains to HTTPS via preloaded HSTS"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/",
+        "title": "Building the DOM faster: speculative parsing, async, defer and preload"
+      },
+      {
+        "link": "https://jordaneldredge.com/projects/winamp2-js/",
+        "title": "A reimplementation of Winamp 2.9 in HTML5 and Javascript"
+      },
+      {
+        "link": "https://css-tricks.com/the-notch-and-css/",
+        "title": "“The Notch” and CSS"
+      }
+    ]
+  },
+  {
+    "date": "2017-09-29",
+    "img": null,
+    "links": [
+      {
+        "link": "https://nodesource.com/blog/how-massive-companies-use-node-js-at-scale",
+        "title": "How massive companies use node.js at scale"
+      },
+      {
+        "link": "https://blog.matters.tech/migrating-from-php-to-javascript-with-node-js-155534498b58",
+        "title": "From PHP to JavaScript with Node.js"
+      },
+      {
+        "link": "https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720",
+        "title": "Learn JavaScript Promises by Building a Promise from Scratch"
+      },
+      {
+        "link": "https://xem.github.io/sheet/",
+        "title": "A 218b spreadsheet app in HTML/JS"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=0mJC0A72Fnw",
+        "title": "JavaScript Speech Recognition"
+      },
+      {
+        "link": "https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918",
+        "title": "ES6 Promises: Patterns and Anti-Patterns"
+      },
+      {
+        "link": "https://github.com/tc39/proposal-bigint",
+        "title": "Proposal: Arbitrary precision integers in JavaScript"
+      },
+      {
+        "link": "https://christianheilmann.com/2017/09/26/web-truths-javascript-cant-be-trusted/",
+        "title": "Web Truths: JavaScript can’t be trusted"
+      },
+      {
+        "link": "https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/",
+        "title": "Exploring Animation And Interaction Techniques With WebGL (A Case Study)"
+      },
+      {
+        "link": "https://webkit.org/blog/7929/designing-websites-for-iphone-x/",
+        "title": "Designing Websites for iPhone X"
+      },
+      {
+        "link": "https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499",
+        "title": "Intriguing CSS Level 4 Selectors"
+      },
+      {
+        "link": "https://developers.google.com/web/updates/2017/09/sensors-for-the-web",
+        "title": "Sensors For The Web!"
+      },
+      {
+        "link": "https://github.com/SerpentAI/SerpentAI",
+        "title": "Game Agent Framework. Helping you create AIs / Bots to play any game you own"
+      },
+      {
+        "link": "https://qotoqot.com/blog/improving-focus/",
+        "title": "How I got to 200 productive hours a month"
+      }
+    ]
+  },
+  {
+    "date": "2017-10-07",
+    "img": null,
+    "links": [
+      {
+        "link": "http://delved.org/What-if-I-told-you-that-HTTP-can-be-fast/#/",
+        "title": "What if i told you that http can be fast?"
+      },
+      {
+        "link": "https://images.guide/",
+        "title": "Essential image optimization"
+      },
+      {
+        "link": "https://v8project.blogspot.com/2017/10/optimizing-proxies.html",
+        "title": "Optimizing ES2015 proxies in V8"
+      },
+      {
+        "link": "https://v8project.blogspot.co.uk/2017/10/lazy-unlinking.html",
+        "title": "An Internship on Laziness: Lazy Unlinking of Deoptimized Functions"
+      },
+      {
+        "link": "http://js13kgames.com/entries/amaz3d",
+        "title": "AMAZ3D is a game, made in a few days for js13k 2017 gamejam"
+      }
+    ]
+  },
+  {
+    "date": "2017-10-15",
+    "img": null,
+    "links": [
+      {
+        "link": "https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/",
+        "title": "The whole web at maximum FPS: How WebRender gets rid of jank"
+      },
+      {
+        "link": "https://medium.com/statuscode/filtering-images-using-web-audio-api-276555cca6ad",
+        "title": "Filtering images using Web Audio API"
+      },
+      {
+        "link": "https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html",
+        "title": "JavaScript's Promise Leaks Memory"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/arrow-functions-in-javascript-2f8bf7df5077",
+        "title": "How you can use ES6 Arrow Functions to make your JavaScript easier to read"
+      },
+      {
+        "link": "https://hackernoon.com/how-i-started-with-learning-ai-in-the-last-2-months-251d19b23597",
+        "title": "How I started with learning AI in the last 2 months"
+      },
+      {
+        "link": "https://hackernoon.com/challenge-program-without-variables-javascript-bee89a41455e",
+        "title": "Challenge: Program without variables #<a href=\"#javascript\">javascript</a>"
+      },
+      {
+        "link": "https://stanko.github.io/webpack-babel-react-revisited/",
+        "title": "Setting up Webpack, Babel and React from scratch, revisited"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/why-could-es7-be-called-es2-4c5f094ccef7",
+        "title": "The newest version of JavaScript only has 2 new features. Here’s how they work."
+      },
+      {
+        "link": "https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5",
+        "title": "How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await"
+      },
+      {
+        "link": "https://regexly.chipto.io/",
+        "title": "WYSIWYG Regex playground for those who JavaScript"
+      },
+      {
+        "link": "https://selecttransform.github.io/site/",
+        "title": "Bend JSON to your will"
+      },
+      {
+        "link": "https://github.com/maptalks/maptalks.js",
+        "title": "A light JavaScript library to create integrated 2D/3D maps"
+      }
+    ]
+  },
+  {
+    "date": "2017-10-15",
+    "img": null,
+    "links": [
+      {
+        "link": "http://quickdocs.org/",
+        "title": "Library Documentation Hosting for Common Lisp"
+      },
+      {
+        "link": "http://www.cliki.net/",
+        "title": "Welcome to CLiki"
+      },
+      {
+        "link": "http://www.gigamonkeys.com/book/",
+        "title": "Practical Common Lisp"
+      },
+      {
+        "link": "http://lisp-lang.org/style-guide/",
+        "title": "Common Lisp Style Guide"
+      },
+      {
+        "link": "http://jtra.cz/stuff/lisp/sclr/index.html",
+        "title": "Simplified Common Lisp reference"
+      },
+      {
+        "link": "http://ep.yimg.com/ty/cdn/paulgraham/jmc.lisp",
+        "title": "The Lisp defined in McCarthy's 1960 paper, translated into CL"
+      },
+      {
+        "link": "https://lispcookbook.github.io/cl-cookbook/",
+        "title": "The Common Lisp Cookbook"
+      },
+      {
+        "link": "http://alarm.cti.depaul.edu/lisptutor/initexercise",
+        "title": "Lisptutor Jr"
+      },
+      {
+        "link": "https://github.com/nicolasavru/cl-nn",
+        "title": "A neural network implementation in Common Lisp"
+      },
+      {
+        "link": "https://github.com/masonium/cl-fann",
+        "title": "CFFI bindings for libfann"
+      },
+      {
+        "link": "https://github.com/orthecreedence/cl-async",
+        "title": "Asynchronous IO library for Common Lisp"
+      },
+      {
+        "link": "http://www.eioba.pl/a/1ltj/wprowadzenie-do-jezyka-common-lisp",
+        "title": "Wprowadzenie do języka Common Lisp"
+      }
+    ]
+  },
+  {
+    "date": "2017-10-20",
+    "img": null,
+    "links": [
+      {
+        "link": "https://www.sitepen.com/blog/2017/10/06/improving-performance-with-the-paint-timing-api/",
+        "title": "Improving Performance with the Paint Timing API"
+      },
+      {
+        "link": "https://martinmelhus.com/web-audio-modem/",
+        "title": "Web Audio Modem"
+      },
+      {
+        "link": "https://nodejs.org/en/blog/vulnerability/oct-2017-dos/",
+        "title": "Node.js - DOS security vulnerability"
+      },
+      {
+        "link": "https://nemethgergely.com/nodejs-security-overview/",
+        "title": "Node.js Security Overview"
+      },
+      {
+        "link": "https://github.com/Microsoft/napajs",
+        "title": "Napa.js: a multi-threaded JavaScript runtime"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=gx9ZNY9DNBs",
+        "title": "A Brief History of Streams"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=H48KuESn2sk",
+        "title": "Keeping JavaScript Safe: Security &amp; the npm Registry"
+      },
+      {
+        "link": "http://varun.ca/metaballs/",
+        "title": "Metaballs"
+      },
+      {
+        "link": "https://medium.com/@urish/reactive-brain-waves-af07864bb7d4",
+        "title": "Reactive Brain Waves - How to use RxJS, Angular, and Web Bluetooth, along with an EEG Headset, to Do More With Your Brain"
+      },
+      {
+        "link": "https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/",
+        "title": "How I’m (Not) Using jQuery"
+      },
+      {
+        "link": "http://engineering.wingify.com/posts/migrating-towards-yarn-webpack/",
+        "title": "Migrating towards Yarn and Webpack"
+      },
+      {
+        "link": "http://animejs.com/",
+        "title": "Javascript animation engine"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=dbCcVzt9C1c",
+        "title": "New DevTools Features for JavaScript"
+      }
+    ]
+  },
+  {
+    "date": "2017-10-27",
+    "img": null,
+    "links": [
+      {
+        "link": "https://github.com/learnbyexample/Command-line-text-processing",
+        "title": "Command Line Text Processing"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/",
+        "title": "Saying Goodbye to Firebug"
+      },
+      {
+        "link": "https://ayushgp.github.io/html-web-components-using-vanilla-js/",
+        "title": "HTML Web Component using Vanilla JavaScript"
+      },
+      {
+        "link": "https://www.robinwieruch.de/linear-algebra-matrix-javascript/",
+        "title": "Linear Algebra in JavaScript with Matrix Operations"
+      },
+      {
+        "link": "https://nemethgergely.com/async-function-best-practices/",
+        "title": "Node.js Async Function Best Practices"
+      },
+      {
+        "link": "https://edneypitta.com/on-node-go-concurrency/",
+        "title": "On Node.js, Go and concurrency"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=7rx9fSUG8H0",
+        "title": "V8 Today and in the Future (Chrome Dev Summit 2017)"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=_srJ7eHS3IM",
+        "title": "Fast By Default: Modern Loading Best Practices (Chrome Dev Summit 2017)"
+      }
+    ]
+  },
+  {
+    "date": "2017-11-04",
+    "img": null,
+    "links": [
+      {
+        "link": "https://medium.com/the-node-js-collection/news-node-js-8-moves-into-long-term-support-and-node-js-9-becomes-the-new-current-release-line-74cf754a10a0",
+        "title": "Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line"
+      },
+      {
+        "link": "https://github.com/mattbierner/akh",
+        "title": "Javascript Monad and Monad Transformer Collection"
+      },
+      {
+        "link": "https://dexecure.com/blog/how-to-create-http2-static-file-server-nodejs-with-examples/",
+        "title": "How to create a zero dependency HTTP/2 static file server with Node.js"
+      },
+      {
+        "link": "https://www.codementor.io/schumachertony90/scaling-phantomjs-taking-thousands-of-full-page-screenshots-every-day-csvl1j6ur",
+        "title": "Scaling PhantomJS: Taking Thousands of Full Page Screenshots Every Day"
+      },
+      {
+        "link": "https://github.com/vitalets/websocket-as-promised",
+        "title": "A Promise-based API for WebSockets"
+      },
+      {
+        "link": "http://2ality.com/2017/11/proxy-method-calls.html",
+        "title": "Tracing method calls via Proxies"
+      },
+      {
+        "link": "https://www.youtube.com/playlist?list=PLS8HfBXv9ZWWe8zXrViYbIM2Hhylx8DZx#supermario",
+        "title": "Super Mario Bros in JavaScript"
+      },
+      {
+        "link": "https://github.com/laoqiren/mlhelper",
+        "title": "Algorithms and utils for Machine Learning in JavaScript."
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=Fbhhc4jtGW4",
+        "title": "Node.js Performance and Highly Scalable Micro-Services - Chris Bailey, IBM"
+      },
+      {
+        "link": "https://github.com/delvedor/workq",
+        "title": "A super tiny work queue"
+      },
+      {
+        "link": "https://medium.com/@Abazhenov/using-async-await-in-express-with-node-8-b8af872c0016",
+        "title": "Using Async Await in Express with Node 8"
+      }
+    ]
+  },
+  {
+    "date": "2017-11-10",
+    "img": null,
+    "links": [
+      {
+        "link": "https://www.smashingmagazine.com/2017/11/understanding-vary-header/",
+        "title": "Understanding The Vary Header"
+      },
+      {
+        "link": "https://blog.pragmatists.com/how-to-debug-front-end-console-3456e4ee5504",
+        "title": "How to debug Front-end: Console"
+      },
+      {
+        "link": "http://blog.bloomca.me/2017/11/08/the-most-clever-line-of-javascript.html",
+        "title": "The Most Clever Line of JavaScript"
+      },
+      {
+        "link": "http://2ality.com/2017/11/import-meta.html",
+        "title": "ES proposal: import.meta – module metadata"
+      },
+      {
+        "link": "https://github.com/i0natan/nodebestpractices",
+        "title": "Node.js Best Practices"
+      },
+      {
+        "link": "https://nemethgergely.com/what-is-new-in-nodejs-9/",
+        "title": "What’s new in Node.js 9?"
+      },
+      {
+        "link": "http://2ality.com/2017/02/ecmascript-2018.html",
+        "title": "Feature watch: ECMAScript 2018"
+      },
+      {
+        "link": "https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795",
+        "title": "JavaScript loops—how to handle async/await"
+      },
+      {
+        "link": "https://blog.yld.io/2017/11/03/http-2-in-node-js-core/",
+        "title": "HTTP/2 in Node.js Core"
+      },
+      {
+        "link": "https://www.programmableweb.com/news/w3c-designates-webrtc-10-feature-complete/brief/2017/11/03",
+        "title": "W3C Designates WebRTC 1.0 Feature Complete"
+      },
+      {
+        "link": "https://github.com/hemanth/functional-programming-jargon",
+        "title": "Functional Programming Jargon"
+      },
+      {
+        "link": "http://www.math.tamu.edu/~cyan/Rota/mitless.html",
+        "title": "10 Lessons of an MIT Education"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=Ilg3gGewQ5U",
+        "title": "What is backpropagation and what is it actually doing? | Deep learning, chapter 3"
+      }
+    ]
+  },
+  {
+    "date": "2017-11-17",
+    "img": null,
+    "links": [
+      {
+        "link": "https://blog.mozilla.org/blog/2017/11/13/webassembly-in-browsers/",
+        "title": "WebAssembly support now shipping in all major browsers"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2017/11/entering-the-quantum-era-how-firefox-got-fast-again-and-where-its-going-to-get-faster/",
+        "title": "Entering the Quantum Era—How Firefox got fast again and where it’s going to get faster"
+      },
+      {
+        "link": "http://2ality.com/2017/11/currying-in-js.html",
+        "title": "Currying is not idiomatic in JavaScript"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=1bZxs5J5n3M",
+        "title": "High Performance JS in V8 - Peter Marshall"
+      },
+      {
+        "link": "https://www.youtube.com/playlist?list=PL0CdgOSSGlBaxNkrUIHrhd1f3ch45f66_#nodeconfeu2017",
+        "title": "NodeConfEU 2017"
+      },
+      {
+        "link": "https://twitter.com/AllThingsSmitty/status/930617039085035520",
+        "title": "CSS gem to help the team remember about accessibility"
+      },
+      {
+        "link": "https://daveceddia.com/how-does-redux-work/",
+        "title": "How Redux Works: A Counter-Example"
+      },
+      {
+        "link": "http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/",
+        "title": "JavaScript. The Core: 2nd Edition"
+      },
+      {
+        "link": "https://applecrazy.github.io/blog/posts/analyzing-browser-hist-using-python/",
+        "title": "Analyzing Browser History Using Python and Pandas"
+      }
+    ]
+  },
+  {
+    "date": "2017-11-26",
+    "img": "2017-11-26.jpg",
+    "links": [
+      {
+        "link": "https://malloc.fi/performance-cost-of-server-side-rendered-react-node-js",
+        "title": "The Performance Cost of Server Side Rendered React on Node.js"
+      },
+      {
+        "link": "https://medium.com/@muehler.v/node-js-opencv-for-face-recognition-37fa7cb860e8",
+        "title": "Node.js + OpenCV for Face Recognition"
+      },
+      {
+        "link": "https://semaphoreci.com/blog/2017/11/22/nodejs-versions-used-in-commercial-projects-in-2017.html",
+        "title": "Node.js Versions Used in Commercial Projects in 2017"
+      },
+      {
+        "link": "https://blog.acolyer.org/2017/11/10/a-model-for-reasoning-about-javascript-promises/",
+        "title": "A model for reasoning about JavaScript promises"
+      },
+      {
+        "link": "https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e",
+        "title": "The Cost Of JavaScript"
+      },
+      {
+        "link": "https://v8project.blogspot.co.uk/2017/11/csa.html",
+        "title": "Taming architecture complexity in V8 — the CodeStubAssembler"
+      },
+      {
+        "link": "https://snyk.io/blog/77-percent-of-sites-still-vulnerable/",
+        "title": "77% of 433,000 Sites Use Vulnerable JavaScript Libraries"
+      },
+      {
+        "link": "https://medium.com/@rubenspgcavalcante/implementing-javascript-functors-and-monads-a87b6a4b4d9a",
+        "title": "Implementing JavaScript Functors and Monads"
+      },
+      {
+        "link": "https://vimeo.com/243148125",
+        "title": "Øredev 2017 - Kris Jenkins - PureScript: Tomorrow’s JavaScript Today"
+      }
+    ]
+  },
+  {
+    "date": "2017-12-02",
+    "img": "2017-12-02.jpg",
+    "links": [
+      {
+        "link": "http://blog.cowchimp.com/monitoring-unused-css-by-unleashing-the-devtools-protocol/",
+        "title": "Monitoring unused CSS by unleashing the raw power of the DevTools Protocol"
+      },
+      {
+        "link": "https://www.sitepoint.com/javascript-performance-optimization-tips-an-overview/",
+        "title": "JavaScript Performance Optimization Tips: An Overview"
+      },
+      {
+        "link": "https://hackernoon.com/basic-javascript-algorithms-toolbox-starter-kit-dc2af3ceebad",
+        "title": "Basic javascript algorithms toolbox: starter kit"
+      },
+      {
+        "link": "https://benmccormick.org/2017/11/28/sieveoferatosthenes/",
+        "title": "Implementing The Sieve Of Eratosthenes in JavaScript"
+      },
+      {
+        "link": "https://v8project.blogspot.com/2017/11/csa.html",
+        "title": "Taming architecture complexity in V8 — the CodeStubAssembler"
+      },
+      {
+        "link": "https://bocoup.com/blog/i-slipped-on-javascripts-banana-peel",
+        "title": "I slipped on JavaScript’s banana peel"
+      },
+      {
+        "link": "https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8",
+        "title": "An Introduction to Speculative Optimization in V8 "
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=xuifyagAeu4",
+        "title": "Rendering performance from the ground up (Martin Splitt)"
+      },
+      {
+        "link": "https://github.com/tc39/ecma262/blob/master/CONTRIBUTING.md",
+        "title": "Contributing to ECMAScript"
+      },
+      {
+        "link": "http://javascript.info/",
+        "title": "The Modern JavaScript Tutorial"
+      },
+      {
+        "link": "https://routley.io/tech/2017/11/23/logbook.html",
+        "title": "Using a logbook to improve your programming"
+      },
+      {
+        "link": "https://www.zachleat.com/web/comprehensive-webfonts/",
+        "title": "A comprehensive guide to font loading strategies"
+      }
+    ]
+  },
+  {
+    "date": "2017-12-09",
+    "img": "2017-12-09.jpg",
+    "links": [
+      {
+        "link": "http://seg.phault.net/blog/2017/10/typescript-without-transpiling/",
+        "title": "Get the advantages of TypeScript without transpiling"
+      },
+      {
+        "link": "http://2ality.com/2017/12/for-await-of-sync-iterables.html",
+        "title": "For-await-of and synchronous iterables"
+      },
+      {
+        "link": "http://blog.bloomca.me/2017/12/04/how-to-cancel-your-promise.html",
+        "title": "How to Cancel Your Promise"
+      },
+      {
+        "link": "https://codeburst.io/the-future-of-javascript-will-be-less-javascript-cea373eb57fd",
+        "title": "The Future of JavaScript Will Be Less JavaScript"
+      },
+      {
+        "link": "https://jakearchibald.com/2017/await-vs-return-vs-return-await/",
+        "title": "Await vs return vs return await"
+      },
+      {
+        "link": "https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/",
+        "title": "HTTP/2 push is tougher than I thought"
+      },
+      {
+        "link": "http://2ality.com/2017/12/alternate-this.html",
+        "title": "A different way of understanding this in JavaScript"
+      },
+      {
+        "link": "http://www.vizitsolutions.com/portfolio/webgl/gpgpu/index.html",
+        "title": "Unleash Your Inner Supercomputer: Your Guide to GPGPU with WebGL"
+      },
+      {
+        "link": "https://www.robinwieruch.de/neural-networks-deeplearnjs-javascript/",
+        "title": "Neural Networks in JavaScript with deeplearn.js"
+      }
+    ]
+  },
+  {
+    "date": "2017-12-15",
+    "img": "2017-12-15.jpg",
+    "links": [
+      {
+        "link": "https://codeburst.io/javascript-map-vs-foreach-f38111822c0f",
+        "title": "JavaScript—Map vs. ForEach"
+      },
+      {
+        "link": "https://dev.to/voodooattack/introducing-nexusjs-a-multi-threaded-javascript-run-time-3g6",
+        "title": "Introducing Nexus.js: A multi-threaded JavaScript run-time"
+      },
+      {
+        "link": "https://medium.com/@muehler.v/node-js-meets-opencvs-deep-neural-networks-fun-with-tensorflow-and-caffe-ff8d52a0f072",
+        "title": "Node.js meets OpenCV’s Deep Neural Networks—Fun with Tensorflow and Caffe"
+      },
+      {
+        "link": "https://medium.com/the-node-js-collection/speed-up-your-node-js-app-with-native-addons-5e76a06f4a40",
+        "title": "Speed up Your Node.js App with Native Addons"
+      },
+      {
+        "link": "https://github.com/ballercat/walt",
+        "title": "Walt is a JavaScript-like syntax for WebAssembly text format"
+      },
+      {
+        "link": "https://codeburst.io/go-or-not-to-go-from-a-javascript-perspective-8dcee4bd17ca",
+        "title": "Go or Not to Go (from a JavaScript Perspective)?"
+      },
+      {
+        "link": "https://hackernoon.com/functional-programming-in-javascript-is-an-antipattern-58526819f21e",
+        "title": "Functional programming in Javascript is an antipattern"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276",
+        "title": "Functional Programming In JavaScript—With Practical Examples (Part 1)"
+      },
+      {
+        "link": "https://github.com/stoeffel/awesome-fp-js",
+        "title": "A curated list of awesome functional programming stuff in js"
+      }
+    ]
+  },
+  {
+    "date": "2017-12-22",
+    "img": "2017-12-22.jpg",
+    "links": [
+      {
+        "link": "http://2ality.com/2017/09/native-esm-node.html",
+        "title": "Using ES modules natively in Node.js"
+      },
+      {
+        "link": "https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/",
+        "title": "10 Tips to Become a Better Node Developer in 2017"
+      },
+      {
+        "link": "https://javascriptreport.com/js-frameworks-fastest/",
+        "title": "Which JavaScript Frameworks Are the Fastest?"
+      },
+      {
+        "link": "https://www.stefanjudis.com/today-i-learned/the-global-reflect-object-its-use-cases-and-things-to-watch-out-for/",
+        "title": "The global <code>Reflect</code> object, its use cases and things to watch out for"
+      },
+      {
+        "link": "http://ohshitgit.com",
+        "title": "Oh shit, git!"
+      },
+      {
+        "link": "https://github.com/hemanth/functional-programming-jargon",
+        "title": "Jargon from the functional programming world in simple terms! "
+      },
+      {
+        "link": "http://davidbkemp.github.io/QuantumComputingArticle/",
+        "title": "An Interactive Introduction To Quantum Computing"
+      }
+    ]
+  },
+  {
+    "date": "2018-01-12",
+    "img": "2018-01-12.jpg",
+    "links": [
+      {
+        "link": "https://nodesource.com/node-by-numbers",
+        "title": "Node by numbers 2017 edition"
+      },
+      {
+        "link": "https://blog.risingstack.com/node-js-development-tips-2018/",
+        "title": "Node.js development tips 2018"
+      },
+      {
+        "link": "https://blog.safia.rocks/post/169466425525/node-module-deep-dive-fs",
+        "title": "Node module deep-dive: fs"
+      },
+      {
+        "link": "https://nodejs.org/en/blog/vulnerability/jan-2018-spectre-meltdown/",
+        "title": "Meltdown and Spectre - Impact On Node.js"
+      },
+      {
+        "link": "https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/",
+        "title": "The Brutal Lifecycle of JavaScript Frameworks"
+      },
+      {
+        "link": "https://davidwalsh.name/es7-es8-features",
+        "title": "Six Tiny But Awesome ES7 + ES8 Features"
+      },
+      {
+        "link": "https://css-tricks.com/careful-now/",
+        "title": "Careful Now"
+      },
+      {
+        "link": "https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/",
+        "title": "What Spectre and Meltdown Mean For WebKit"
+      },
+      {
+        "link": "https://github.com/getify/Functional-Light-JS",
+        "title": "Functional-Light JavaScript"
+      },
+      {
+        "link": "https://github.com/tc39/ecma262/pull/1062",
+        "title": "TC39 to Recommend 'Consistently Explicit Semicolon Use'?"
+      },
+      {
+        "link": "https://twitter.com/jasnell/status/951109310687322113",
+        "title": "If You're Still Using Node 4, It's Seriously Time to Upgrade"
+      }
+    ]
+  },
+  {
+    "date": "2018-01-20",
+    "img": "2018-01-20.jpg",
+    "links": [
+      {
+        "link": "https://air.ghost.io/js-things-i-never-knew-existed/",
+        "title": "JS things I never knew existed"
+      },
+      {
+        "link": "https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true",
+        "title": "Can (a ==1 &amp;&amp; a== 2 &amp;&amp; a==3) ever evaluate to true?"
+      },
+      {
+        "link": "https://codeburst.io/javascript-null-vs-undefined-20f955215a2",
+        "title": "JavaScript—Null vs. Undefined"
+      },
+      {
+        "link": "http://fr.umio.us/why-ramda/",
+        "title": "Why Ramda?"
+      },
+      {
+        "link": "https://webgl2fundamentals.org/",
+        "title": "WebGL2 Fundamentals"
+      },
+      {
+        "link": "https://dassur.ma/things/actormodel/",
+        "title": "“An Actor, a model and an architect walk onto the web...”"
+      },
+      {
+        "link": "https://github.com/GoogleChrome/rendertron",
+        "title": "A dockerized, headless Chrome rendering solution"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/",
+        "title": "Making WebAssembly even faster: Firefox’s new streaming and tiering compiler"
+      },
+      {
+        "link": "https://parceljs.org/",
+        "title": "Oszałamiająco szybki, niewymagający konfiguracji program tworzący pakiety"
+      },
+      {
+        "link": "https://joshbassett.info/2018/bulb/",
+        "title": "Bulb: A Reactive Programming Library for JavaScript"
+      },
+      {
+        "link": "https://github.com/lukeed/polka",
+        "title": "A micro web server so fast, it'll make you dance!"
+      },
+      {
+        "link": "https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/",
+        "title": "Meet the New Dialog Element"
+      },
+      {
+        "link": "https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/",
+        "title": "Practical Intro to Monads in JavaScript"
+      }
+    ]
+  },
+  {
+    "date": "2018-01-26",
+    "img": "2018-01-26.jpg",
+    "links": [
+      {
+        "link": "https://medium.com/dailyjs/7-hacks-for-es6-developers-4e24ff425d0b",
+        "title": "7 Hacks for ES6 Developers"
+      },
+      {
+        "link": "https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a",
+        "title": "How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them"
+      },
+      {
+        "link": "https://medium.com/dailyjs/the-why-behind-the-wat-an-explanation-of-javascripts-weird-type-system-83b92879a8db",
+        "title": "The WHY behind the WAT: An explanation of JavaScript’s weird type system"
+      },
+      {
+        "link": "https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340",
+        "title": "Nested Ternaries are Great"
+      },
+      {
+        "link": "https://benfrain.com/html-templating-with-vanilla-javascript-es2015-template-literals/",
+        "title": "HTML templating with vanilla JavaScript ES2015 Template Literals"
+      },
+      {
+        "link": "https://docs.google.com/presentation/d/1n5ZvVXyItjGNBFoQFh-T04_UdOWcuOdvLC3e_udTjPQ/edit#slide=id.p",
+        "title": "JavaScript: The Bad Parts (agentconf '18)"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=90wNAn05Cf4",
+        "title": "Chrome 64 - What's New in DevTools"
+      },
+      {
+        "link": "https://medium.com/blogfoster-engineering/how-we-simplified-our-tooling-setup-for-node-js-projects-80b423293b2c",
+        "title": "How We Simplified our Tooling Setup for Node.js Projects"
+      },
+      {
+        "link": "https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda",
+        "title": "Lessons Learned, making our app with Web Components"
+      },
+      {
+        "link": "http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/",
+        "title": "The Death of Microservice Madness in 2018"
+      },
+      {
+        "link": "https://www.ampproject.org/",
+        "title": "AMP Project"
+      }
+    ]
+  },
+  {
+    "date": "2018-02-03",
+    "img": "2018-02-03.jpg",
+    "links": [
+      {
+        "link": "https://hackernoon.com/debugging-node-without-restarting-processes-bd5d5c98f200",
+        "title": "Debugging Node without restarting processes"
+      },
+      {
+        "link": "https://www.rdegges.com/2018/please-stop-using-local-storage/",
+        "title": "Please Stop Using Local Storage"
+      },
+      {
+        "link": "https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/",
+        "title": "Introducing Node Clinic - A performance toolkit for Node.js developers"
+      },
+      {
+        "link": "http://2ality.com/2017/02/ecmascript-2018.html",
+        "title": "ECMAScript 2018: the final feature set"
+      },
+      {
+        "link": "https://medium.com/@baphemot/understanding-cors-18ad6b478e2b",
+        "title": "Understanding CORS"
+      },
+      {
+        "link": "https://v8project.blogspot.co.uk/2018/01/hash-code.html",
+        "title": "Optimizing hash tables: hiding the hash code"
+      },
+      {
+        "link": "http://blog.bloomca.me/2018/01/27/asynchronous-reduce-in-javascript.html",
+        "title": "Asynchronous Reduce in JavaScript"
+      },
+      {
+        "link": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
+        "title": "The introduction to Reactive Programming you've been missing"
+      },
+      {
+        "link": "https://www.datascienceatthecommandline.com/index.html",
+        "title": "Data Science at the Command Line"
+      }
+    ]
+  },
+  {
+    "date": "2018-02-10",
+    "img": "2018-02-10.jpg",
+    "links": [
+      {
+        "link": "https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec",
+        "title": "How JavaScript works: memory management + how to handle 4 common memory leaks"
+      },
+      {
+        "link": "https://benchling.engineering/from-200k-lines-of-coffeescript-to-zero-making-decaffeinate-super-stable-4de0ca68d9bc",
+        "title": "From 200K lines of CoffeeScript to zero: making decaffeinate super-stable"
+      },
+      {
+        "link": "https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6",
+        "title": "Top JavaScript Libraries &amp; Tech to Learn in 2018"
+      },
+      {
+        "link": "https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/",
+        "title": "Using Media Queries For Responsive Design In 2018"
+      },
+      {
+        "link": "https://www.ctrl.blog/entry/chrome-adblocker",
+        "title": "Here’s how Google Chrome’s new ad blocker works"
+      },
+      {
+        "link": "https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525",
+        "title": "Modern CSS Explained For Dinosaurs"
+      },
+      {
+        "link": "https://blog.daftcode.pl/hyperapp-parcel-71823bd93f1c",
+        "title": "Hyperapp + Parcel = "
+      },
+      {
+        "link": "https://github.com/lc-soft/LCUI",
+        "title": "A small C library for building user interfaces with C, XML and CSS. "
+      },
+      {
+        "link": "https://github.com/angus-c/just",
+        "title": "A library of dependency-free utilities that do just do one thing."
+      },
+      {
+        "link": "https://hackernoon.com/bringing-the-blockchain-to-react-native-98b76e15d44d",
+        "title": "Bringing the blockchain to React Native"
+      },
+      {
+        "link": "https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b",
+        "title": "Chiccocoin: Learn what is a Blockchain by creating one in NodeJS"
+      },
+      {
+        "link": "https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js",
+        "title": " Awesome cheatsheets backend node.js"
+      },
+      {
+        "link": "https://blog.bloomca.me/2018/02/04/spa-is-not-silver-bullet.html",
+        "title": "Single Page Application Is Not a Silver Bullet"
+      },
+      {
+        "link": "https://vimeo.com/36579366",
+        "title": "Bret Victor - Inventing on Principle"
+      }
+    ]
+  },
+  {
+    "date": "2018-02-23",
+    "img": "2018-02-23.jpg",
+    "links": [
+      {
+        "link": "https://dev.to/kepta/promising-promise-tips--c8f",
+        "title": "9 Promising Promise Tips"
+      },
+      {
+        "link": "http://exploringjs.com/es2018-es2019/",
+        "title": "Exploring ES2018 and ES2019"
+      },
+      {
+        "link": "https://medium.com/@tomastrajan/how-to-speed-up-continuous-integration-build-with-new-npm-ci-and-package-lock-json-7647f91751a",
+        "title": "How To Speed Up Continuous Integration Build With New NPM CI And package-lock.json"
+      },
+      {
+        "link": "https://dev.to/sammyisa/optional-chaining-may-be-coming-to-javascript--4ff0",
+        "title": "Optional Chaining may be coming to JavaScript"
+      },
+      {
+        "link": "https://thenewstack.io/talking-wasm-paul-milham-webassembly-may-reinvent-write-ship-code-web/",
+        "title": "How WebAssembly May Reinvent How We Write and Ship Code on the Web"
+      },
+      {
+        "link": "https://molily.de/amp/",
+        "title": "What Google AMP means for the JavaScript community"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855",
+        "title": "Everything you need to know about CSS Variables"
+      },
+      {
+        "link": "http://www.mattzeunert.com/2018/01/25/v8-javascript-memory-quiz.html",
+        "title": "V8 memory quiz"
+      },
+      {
+        "link": "https://www.dalejefferson.com/blog/async-await-promise-all-array-destructuring/",
+        "title": "Async Await Promise All Array Destructuring"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec",
+        "title": "How to get HTTPS working on your local development environment in 5 minutes"
+      },
+      {
+        "link": "https://zwischenzugs.com/2011/08/29/my-favourite-secret-weapon-strace/",
+        "title": "My Favourite Secret Weapon – strace"
+      },
+      {
+        "link": "http://algassert.com/2016/05/22/quirk.html",
+        "title": "My Quantum Circuit Simulator: Quirk"
+      },
+      {
+        "link": "https://nact.io/",
+        "title": "Nact is redux but for the server"
+      },
+      {
+        "link": "https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68",
+        "title": "The 5 Clustering Algorithms Data Scientists Need to Know"
+      },
+      {
+        "link": "https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc",
+        "title": "Absolute Beginning into Machine Learnin"
+      },
+      {
+        "link": "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12",
+        "title": "Machine Learning for Humans"
+      },
+      {
+        "link": "https://github.com/josephmisiti/awesome-machine-learning#javascript",
+        "title": "Awesome Machine Learning JavaScript"
+      },
+      {
+        "link": "https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5",
+        "title": "Machine Learning with JavaScript : Part 1"
+      },
+      {
+        "link": "https://www.robinwieruch.de/machine-learning-javascript-web-developers/",
+        "title": "A Web Developer's Guide to Machine Learning in JavaScript"
+      },
+      {
+        "link": "http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/",
+        "title": "Machine Learning in Javascript: Introduction"
+      }
+    ]
+  },
+  {
+    "date": "2018-03-02",
+    "img": "2018-03-02.jpg",
+    "links": [
+      {
+        "link": "https://github.com/asyncanup/vasco/blob/33b878b3ae43f2c75197ea3e93afa0876ce990de/vasco-talk.pdf",
+        "title": "Implementing Microservice Discovery in 100 Lines of Node.js"
+      },
+      {
+        "link": "https://hackernoon.com/efficiently-snapshotting-spas-with-puppeteer-c4c77aa2831b",
+        "title": "Efficiently snapshotting your single-page-apps with Puppeteer"
+      },
+      {
+        "link": "http://propelml.org/",
+        "title": "Machine learning for Javascript"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=iumlHzoVlJM",
+        "title": "Machine Learning From Scratch: The Perceptron Model"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=rLgBqT_e6Yo",
+        "title": "Feross Aboukhadijeh: JavaScript Pranks - Lightning Talk - JSConf.Asia 2018"
+      },
+      {
+        "link": "http://www.olioapps.com/blog/the-lost-art-of-the-makefile/",
+        "title": "The Lost Art of the Makefile"
+      },
+      {
+        "link": "https://developers.google.com/machine-learning/crash-course/",
+        "title": "Machine Learning Crash Course with TensorFlow APIs"
+      },
+      {
+        "link": "https://www.machinelearningplus.com/101-numpy-exercises-python/",
+        "title": "101 NumPy Exercises for Data Analysis (Python)"
+      },
+      {
+        "link": "http://www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/",
+        "title": "A Promenade of PyTorch"
+      },
+      {
+        "link": "https://github.com/kennethreitz/requests-html",
+        "title": "Pythonic HTML Parsing for Humans™"
+      }
+    ]
+  },
+  {
+    "date": "2018-03-09",
+    "img": null,
+    "links": [
+      {
+        "link": "https://hackernoon.com/redesigning-redux-b2baee8b8a38",
+        "title": "Redesigning Redux"
+      },
+      {
+        "link": "https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html",
+        "title": "Maybe you don't need Rust and WASM to speed up your JS"
+      },
+      {
+        "link": "https://medium.com/@jacoblee93/build-a-serverless-sms-hub-in-under-7-minutes-with-node-js-stdlib-and-messagebird-7d2d41ecaea6",
+        "title": "Build a “Serverless” SMS Hub in Under 7 Minutes with Node.js, StdLib, and MessageBird"
+      },
+      {
+        "link": "https://blog.bitsrc.io/how-to-publish-multiple-packages-from-any-repository-in-5-minutes-9aafd31d85b7",
+        "title": "How To “Publish” Multiple Packages From Any Repository In 5 Minutes"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=IpGxLWOIZy4",
+        "title": "A Friendly Introduction to #<a href=\"#machinelearning\">machinelearning</a>"
+      },
+      {
+        "link": "https://escape.mitchcrowe.com/",
+        "title": "Escape room w przeglądarce (niech Was nie zmyli napis 'loading' ;))"
+      }
+    ]
+  },
+  {
+    "date": "2018-03-16",
+    "img": "2018-03-16.jpg",
+    "links": [
+      {
+        "link": "https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/",
+        "title": "React Tutorial: A Comprehensive Guide to learning React.js in 2018 "
+      },
+      {
+        "link": "https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3",
+        "title": "You can build a neural network in JavaScript even if you don’t really understand neural networks"
+      },
+      {
+        "link": "https://github.com/nodejs/node/issues/19308",
+        "title": "Adding Websocket support to core"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=mANP56aKIwM",
+        "title": "Control Your Tesla with Profound.js"
+      },
+      {
+        "link": "https://github.com/nodejs/nan",
+        "title": "Native Abstractions for Node.js"
+      },
+      {
+        "link": "https://github.com/sindresorhus/awesome-nodejs",
+        "title": "Delightful Node.js packages and resources"
+      },
+      {
+        "link": "https://github.com/jamiebuilds/the-super-tiny-compiler",
+        "title": "Possibly the smallest compiler ever"
+      },
+      {
+        "link": "http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pl/",
+        "title": "Git Magic"
+      },
+      {
+        "link": "http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/",
+        "title": "A Practical Introduction to Blockchain with Python"
+      },
+      {
+        "link": "http://aosabook.org/en/index.html",
+        "title": "The Architecture of Open Source Applications"
+      },
+      {
+        "link": "https://github.com/pervognsen/bitwise",
+        "title": "Bitwise is an educational project where we create the software/hardware stack for a computer from scratch."
+      },
+      {
+        "link": "https://data36.com/data-science-career-question-1/",
+        "title": "Is Data Science For Me"
+      },
+      {
+        "link": "http://www.htdp.org/",
+        "title": "How to Design Programs (second edition)"
+      }
+    ]
+  },
+  {
+    "date": "2018-03-23",
+    "img": "2018-03-23.jpg",
+    "links": [
+      {
+        "link": "https://towardsdatascience.com/gpu-accelerated-neural-networks-in-javascript-195d6f8e69ef",
+        "title": "GPU-accelerated Neural Networks in JavaScript"
+      },
+      {
+        "link": "https://www.codementor.io/billsourour897/elegant-patterns-in-modern-javascript-roro-hn217atuu",
+        "title": "Elegant patterns in modern JavaScript: RORO"
+      },
+      {
+        "link": "https://knowthen.com/ramda/",
+        "title": "Ramda: A Functional Programming Library for JavaScript"
+      },
+      {
+        "link": "https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa",
+        "title": "CSS Grid Application Layout in Production"
+      },
+      {
+        "link": "http://voidcanvas.com/javascript-performant-coding-tips/",
+        "title": "17 JavaScript / node.js performance coding tips to make applications faster"
+      },
+      {
+        "link": "https://remysharp.com/2018/03/03/last-minute-node-debugging",
+        "title": "Last minute node debugging"
+      },
+      {
+        "link": "https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad",
+        "title": "Train Your Machine Learning Models on Google’s GPUs for Free—Forever"
+      },
+      {
+        "link": "https://www.sentient.ai/blog/evolution-is-the-new-deep-learning/",
+        "title": "Evolution is the New Deep Learning"
+      },
+      {
+        "link": "https://hackaday.com/2018/03/19/cuda-is-like-owning-a-supercomputer/",
+        "title": "CUDA is like owning a supercomputer"
+      }
+    ]
+  },
+  {
+    "date": "2018-03-31",
+    "img": "2018-03-31.jpg",
+    "links": [
+      {
+        "link": "http://blog.timoxley.com/post/47041269194/avoid-else-return-early",
+        "title": "Avoid Else, Return Early"
+      },
+      {
+        "link": "https://www.onivim.io/",
+        "title": "Oni: Modern Modal Editing - powered by Neovim"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2",
+        "title": "Cool Chrome DevTools tips and tricks you wish you knew already"
+      },
+      {
+        "link": "https://www.creativebloq.com/features/20-nodejs-modules-you-need-to-know",
+        "title": "20 Node.js modules you need to know"
+      },
+      {
+        "link": "https://v8project.blogspot.com/2018/03/v8-release-66.html",
+        "title": "V8 release v6.6"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/",
+        "title": "ES modules: A cartoon deep-dive"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b",
+        "title": "Google publishes a JavaScript style guide. Here are some key lessons."
+      },
+      {
+        "link": "https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2",
+        "title": "Using web workers for safe, concurrent JavaScript"
+      },
+      {
+        "link": "https://developers.google.com/web/updates/2018/03/cssom",
+        "title": "Working with the new CSS Typed Object Model"
+      },
+      {
+        "link": "https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns",
+        "title": "The Comprehensive Guide to JavaScript Design Patterns"
+      },
+      {
+        "link": "https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c",
+        "title": "11 Javascript Machine Learning Libraries To Use In Your App"
+      },
+      {
+        "link": "https://js.tensorflow.org/",
+        "title": "A WebGL accelerated, browser based JavaScript library for training and deploying ML models"
+      },
+      {
+        "link": "http://thatmikeflynn.com/egg.js/",
+        "title": "A simple javascript library to add easter eggs to web pages"
+      }
+    ]
+  },
+  {
+    "date": "2018-04-06",
+    "img": "2018-04-06.jpg",
+    "links": [
+      {
+        "link": "https://codepen.io/gregh/post/recreating-legendary-8-bit-games-music-with-web-audio-api",
+        "title": "Recreating legendary 8-bit games music with web audio API"
+      },
+      {
+        "link": "https://philipwalton.com/articles/deploying-es2015-code-in-production-today/",
+        "title": "Deploying ES2015+ Code in Production Today"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e",
+        "title": "Here are examples of everything new in ECMAScript 2016, 2017, and 2018"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/",
+        "title": "JavaScript to Rust and Back Again: A wasm-bindgen Tale"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=PhggNGsSQyg",
+        "title": "Learn RxJS in 60 Minutes for Beginners - Free Crash Course"
+      },
+      {
+        "link": "https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2",
+        "title": "Understanding JavaScript Proxies "
+      },
+      {
+        "link": "https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/",
+        "title": "Looking into assembly code of coercion"
+      },
+      {
+        "link": "https://www.sitepoint.com/es6-collections-map-set-weakmap-weakset/",
+        "title": "ES6 Collections: Using Map, Set, WeakMap, WeakSet"
+      },
+      {
+        "link": "https://www.lucidchart.com/techblog/2018/03/13/the-critical-path-optimizing-load-times-with-the-chromedev-tools/",
+        "title": "The critical path: optimizing load times with the chrome devtools"
+      },
+      {
+        "link": "https://medium.com/swlh/calling-all-web-developers-heres-why-you-should-be-using-firefox-983f012d4aec",
+        "title": "Calling all web developers: here’s why you should be using Firefox"
+      },
+      {
+        "link": "http://blog.ionicframework.com/the-end-of-framework-churn/",
+        "title": "The end of Framework Churn"
+      },
+      {
+        "link": "https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec",
+        "title": "Build your own react"
+      },
+      {
+        "link": "https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db",
+        "title": "Introducing TensorFlow.js: Machine Learning in Javascript"
+      },
+      {
+        "link": "https://angularfirebase.com/lessons/tensorflow-js-quick-start/",
+        "title": "TensorFlow.js Quick Start Tutorial"
+      }
+    ]
+  },
+  {
+    "date": "2018-04-14",
+    "img": "2018-04-14.jpg",
+    "links": [
+      {
+        "link": "http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html",
+        "title": "Write Your Own Node.js Promise Library from Scratch"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c",
+        "title": "How to escape async/await hell"
+      },
+      {
+        "link": "https://mcluck90.github.io/abusing-proxies-for-dsls/",
+        "title": "Abusing Proxies for DSLs"
+      },
+      {
+        "link": "http://2ality.com/2018/04/async-iter-nodejs.html",
+        "title": "Using async iteration natively in Node.js"
+      },
+      {
+        "link": "https://hackerone.com/nodejs",
+        "title": "Node.js Bug Bounty"
+      },
+      {
+        "link": "https://medium.com/the-node-js-collection/node-js-can-http-2-push-b491894e1bb1",
+        "title": "Node.js can HTTP/2 push!"
+      },
+      {
+        "link": "https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad",
+        "title": "Implementing SOLID and the onion architecture in Node.js with TypeScript and InversifyJS"
+      },
+      {
+        "link": "https://medium.com/@sebelga/simplify-your-code-adding-hooks-to-your-promises-9e1483662dfa",
+        "title": "Simplify your functions adding “hooks” to your Promises"
+      },
+      {
+        "link": "https://github.com/AsyncOptics/async-optics",
+        "title": "A node asynchronous process and package monitor"
+      },
+      {
+        "link": "https://www.theverge.com/2018/4/10/17215406/webauthn-support-chrome-firefox-edge-fido-password-free",
+        "title": "Chrome and Firefox will support a new standard for password-free logins"
+      },
+      {
+        "link": "https://hackernoon.com/how-i-stopped-worrying-and-learned-to-love-the-javascript-ecosystem-692c51030342",
+        "title": "How I stopped worrying and learned to love the JavaScript ecosystem"
+      },
+      {
+        "link": "http://2ality.com/2018/04/type-notation-typescript.html",
+        "title": "Understanding TypeScript’s type notation"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=K8spO4hHMhg",
+        "title": "Abhinav Rastogi: Scaling NodeJS beyond the ordinary | JSConf Iceland 2018"
+      }
+    ]
+  },
+  {
+    "date": "2018-04-21",
+    "img": "2018-04-21.jpg",
+    "links": [
+      {
+        "link": "https://developers.google.com/web/updates/2018/04/devtools",
+        "title": "What's New In DevTools (Chrome 67)"
+      },
+      {
+        "link": "https://www.filamentgroup.com/lab/critical-cdn.html",
+        "title": "Mission Critical: optimizing CSS for CDN"
+      },
+      {
+        "link": "https://nodesource.com/blog/what-you-can-expect-from-node-js-10",
+        "title": "What You Can Expect From Node.js 10"
+      },
+      {
+        "link": "https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/",
+        "title": "Yarn vs npm - which Node package manager to use in 2018?"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=HULaOA5oJMY",
+        "title": "Mathias Bynens - V8 Internals for JS Developers"
+      },
+      {
+        "link": "https://blog.codeship.com/advanced-node-js-project-structure-tutorial/",
+        "title": "Advanced Node.js Project Structure Tutorial"
+      },
+      {
+        "link": "http://voidcanvas.com/control-led-with-raspberry-pi-nodejs/",
+        "title": "Control LED with raspberry pi &amp; nodejs : IoT with JS"
+      },
+      {
+        "link": "https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3",
+        "title": "Designing very large (JavaScript) applications"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6",
+        "title": "Immutable.js is intimidating. Here’s how to get started."
+      },
+      {
+        "link": "https://blog.revillweb.com/extending-native-dom-elements-with-web-components-233350c8e86a",
+        "title": "Extending Native DOM Elements with Web Components"
+      }
+    ]
+  },
+  {
+    "date": "2018-04-28",
+    "img": "2018-04-28.jpg",
+    "links": [
+      {
+        "link": "https://www.creativebloq.com/how-to/5-tips-for-super-fast-css",
+        "title": "5 tips for super-fast CSS"
+      },
+      {
+        "link": "https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb",
+        "title": "These 6 essential tools will release, version, and maintain your NPM modules for you"
+      },
+      {
+        "link": "https://github.com/xx45/dayjs",
+        "title": "Fast 2KB immutable date library alternative to Moment.js with the same modern API"
+      },
+      {
+        "link": "http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html",
+        "title": "Writing WebAssembly By Hand"
+      },
+      {
+        "link": "https://blog.npmjs.org/post/173240511455/the-new-npm-cli-a-year-in-review-or-what-you",
+        "title": "The new npm CLI: a year in review; or, what you may have missed!"
+      },
+      {
+        "link": "https://medium.com/@michaelsholty/give-parcel-a-try-you-may-like-it-75cd12a2bfb8",
+        "title": "Give Parcel a Try, You May Like It "
+      },
+      {
+        "link": "http://typeorm.io/#/",
+        "title": "TypeORM is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7)."
+      },
+      {
+        "link": "https://webgl2fundamentals.org",
+        "title": "WebGL2 Fundamentals"
+      },
+      {
+        "link": "https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f",
+        "title": "Gooact: React in 160 lines of JavaScript"
+      },
+      {
+        "link": "https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2",
+        "title": "Some Essential Hacks and Tricks for Machine Learning with Python"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/9-neat-javascript-tricks-e2742f2735c3",
+        "title": "9 neat JavaScript tricks"
+      },
+      {
+        "link": "https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312",
+        "title": "The mistakes I made as a beginner programmer"
+      },
+      {
+        "link": "https://medium.com/the-node-js-collection/april-2018-release-updates-from-the-node-js-project-71687e1f7742",
+        "title": "April 2018 release updates from the Node.js project"
+      }
+    ]
+  },
+  {
+    "date": "2018-05-08",
+    "img": "2018-05-08.jpg",
+    "links": [
+      {
+        "link": "https://github.com/ballercat/walt",
+        "title": "Walt is a JavaScript-like syntax for WebAssembly text format "
+      },
+      {
+        "link": "https://dev.to/voodooattack/introducing-nexusjs-a-multi-threaded-javascript-run-time-3g6",
+        "title": "Introducing Nexus.js: A multi-threaded JavaScript run-time"
+      },
+      {
+        "link": "https://medium.com/the-node-js-collection/switching-from-cluster-module-to-pm2-rabbitmq-in-node-js-d0cce5eb96f4",
+        "title": "Switching from cluster module to PM2 &amp; RabbitMQ in Node.js"
+      },
+      {
+        "link": "https://blog.npmjs.org/post/173526807575/reported-malicious-module-getcookies",
+        "title": "Reported malicious module: getcookies"
+      },
+      {
+        "link": "https://timber.io/blog/creating-a-real-world-cli-app-with-node/",
+        "title": "Creating A Real-World CLI App With Node"
+      },
+      {
+        "link": "https://insidemysql.com/mysql-document-store-crud-quick-start/",
+        "title": "MySQL Document Store CRUD Quick Start"
+      },
+      {
+        "link": "https://developers.google.com/web/updates/2018/05/bigint",
+        "title": "BigInt: arbitrary-precision integers in JavaScript"
+      },
+      {
+        "link": "http://2ality.com/2018/04/extracting-loops.html",
+        "title": "Coding recipe: extracting loop functionality (via callbacks and generators)"
+      },
+      {
+        "link": "https://flaviocopes.com/javascript-regular-expressions/",
+        "title": "A guide to JavaScript regular expressions"
+      },
+      {
+        "link": "https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db",
+        "title": "Parallel programming in JavaScript"
+      }
+    ]
+  },
+  {
+    "date": "2018-05-11",
+    "img": "2018-05-11.gif",
+    "links": [
+      {
+        "link": "https://blog.npmjs.org/post/173719309445/npm-audit-identify-and-fix-insecure",
+        "title": "<code>npm audit</code>: identify and fix insecure dependencies"
+      },
+      {
+        "link": "https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html",
+        "title": "Sending Web Push Notifications from Node.js"
+      },
+      {
+        "link": "https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8",
+        "title": "I never understood JavaScript closures"
+      },
+      {
+        "link": "http://fullbit.ca/learning-web-development-stand-out/",
+        "title": "Learning Web Development? These Skills Will Make You Stand Out"
+      },
+      {
+        "link": "https://pineco.de/the-relative-units-of-css/",
+        "title": "The Relative Units of CSS"
+      },
+      {
+        "link": "http://2ality.com/2018/05/child-process-streams.html",
+        "title": "Working with stdout and stdin of a child process in Node.js"
+      },
+      {
+        "link": "https://github.com/mapbox/flamebearer",
+        "title": "Blazing fast flame graph tool for V8 and Node "
+      },
+      {
+        "link": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
+        "title": "Conversations with a six-year-old on functional programming"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=_H_HskEf-0U",
+        "title": "Using Node.js to Build for the Enterprise"
+      }
+    ]
+  },
+  {
+    "date": "2018-05-18",
+    "img": "2018-05-18.jpg",
+    "links": [
+      {
+        "link": "https://mattcbaker.com/post/developing-https-node-local/",
+        "title": "Developing HTTPS Services in Node with Self-Signed Certificates"
+      },
+      {
+        "link": "https://makefrontendshitagain.party",
+        "title": "Make forntend shit again"
+      },
+      {
+        "link": "https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/",
+        "title": "The Brutal Lifecycle of JavaScript Frameworks"
+      },
+      {
+        "link": "https://dzone.com/articles/cover-your-apps-while-still-using-npm",
+        "title": "Cover Your Apps While Still Using npm"
+      },
+      {
+        "link": "https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3",
+        "title": "Using trampolines to manage large recursive loops in JavaScript"
+      },
+      {
+        "link": "http://www.data-forge-js.com",
+        "title": "JavaScript data wrangling, transformation and analysis toolkit"
+      },
+      {
+        "link": "https://hackernoon.com/the-7-biggest-lessons-ive-learned-by-building-a-twitter-bot-59fee84a9ed9",
+        "title": "The 7 Biggest Lessons I’ve Learned By Building A Twitter Bot "
+      },
+      {
+        "link": "https://hackernoon.com/i-ramda-partial-application-with-curry-e95100f7c7b1",
+        "title": "I ❤ Ramda—Partial Application with a Special Placeholder"
+      },
+      {
+        "link": "https://www.atyantik.com/proxy-javascript-es6-feature/",
+        "title": "Understanding Javascript proxies"
+      },
+      {
+        "link": "https://medium.com/@anildash/what-if-javascript-wins-84898e5341a",
+        "title": "What if JavaScript wins?"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=Mv-l3-tJgGk",
+        "title": "Web performance made easy (Google I/O '18)"
+      }
+    ]
+  },
+  {
+    "date": "2018-05-27",
+    "img": "2018-05-27.jpg",
+    "links": [
+      {
+        "link": "http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/",
+        "title": "Lisp as the Maxwells equations of software"
+      },
+      {
+        "link": "http://www.gigamonkeys.com/book/",
+        "title": "Practical Common Lisp"
+      },
+      {
+        "link": "https://jcubic.pl/jakub-jankiewicz/lisp_tutorial.php",
+        "title": "Kurs programowania w jezyku Common Lisp"
+      },
+      {
+        "link": "http://jtra.cz/stuff/lisp/sclr/index.html",
+        "title": "Simplified Common Lisp reference"
+      },
+      {
+        "link": "http://lispcookbook.github.io/cl-cookbook/",
+        "title": "The Common Lisp Cookbook"
+      },
+      {
+        "link": "https://github.com/CodyReichert/awesome-cl",
+        "title": "List of awesome Common Lisp frameworks, libraries and other shiny stuff."
+      },
+      {
+        "link": "https://github.com/l04m33/vlime",
+        "title": "Vlime"
+      },
+      {
+        "link": "https://github.com/kovisoft/slimv",
+        "title": "Slimv"
+      },
+      {
+        "link": "https://www.quicklisp.org/beta/",
+        "title": "Quicklisp"
+      },
+      {
+        "link": "https://common-lisp.net/project/linedit/",
+        "title": "Linedit"
+      },
+      {
+        "link": "https://github.com/nicolasavru/cl-nn",
+        "title": "A neural network implementation in Common Lisp"
+      },
+      {
+        "link": "https://www.pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+        "title": "SBCL: The Ultimate Assembly Code Breadboard"
+      }
+    ]
+  },
+  {
+    "date": "2018-06-03",
+    "img": "2018-06-03.jpg",
+    "links": [
+      {
+        "link": "https://github.com/trekhleb/javascript-algorithms#readme",
+        "title": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+      },
+      {
+        "link": "https://webpushdemo.azurewebsites.net",
+        "title": "Web Push Notifications"
+      },
+      {
+        "link": "http://devenv.pl/webassembly-nadciaga-rewolucja/",
+        "title": "WebAssembly – nadciąga rewolucja"
+      },
+      {
+        "link": "https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html",
+        "title": "Writing WebAssembly By Hand"
+      },
+      {
+        "link": "https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8",
+        "title": "GraphQL: Everything You Need to Know"
+      },
+      {
+        "link": "https://mixmax.com/blog/to-yarn-and-back-again-npm",
+        "title": "To Yarn and Back (to npm) Again"
+      },
+      {
+        "link": "https://forum.vuejs.org/t/vuido-native-desktop-applications-using-vue-js/34538",
+        "title": "Vuido - native desktop applications using Vue.js"
+      },
+      {
+        "link": "https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/",
+        "title": "JavaScript Start-up Optimization"
+      },
+      {
+        "link": "https://hackernoon.com/from-vanillajs-to-vue-js-a-refactoring-tale-846bee20ba3d",
+        "title": "From VanillaJS to Vue.js: A refactoring tale"
+      },
+      {
+        "link": "https://github.com/nodejs/node/pull/20876",
+        "title": "Workers in Node.js - initial implementation"
+      },
+      {
+        "link": "https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/",
+        "title": "Build a Basic CRUD App with Vue.js and Node"
+      },
+      {
+        "link": "https://github.com/lindell/remote-function",
+        "title": "Make function to remote hosts seamlessly"
+      }
+    ]
+  },
+  {
+    "date": "2018-06-10",
+    "img": "2018-06-10.jpg",
+    "links": [
+      {
+        "link": "https://hacks.mozilla.org/2018/06/overscripted-digging-into-javascript-execution-at-scale/",
+        "title": "Overscripted! Digging into JavaScript execution at scale"
+      },
+      {
+        "link": "https://www.chenhuijing.com/blog/math-and-front-end/",
+        "title": "Math and front-end"
+      },
+      {
+        "link": "https://pawelgrzybek.com/cpp-for-javascript-developers/",
+        "title": "C++ for JavaScript developers"
+      },
+      {
+        "link": "https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37",
+        "title": "Level up your CSS selector skills"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=M3BM9TB-8yA",
+        "title": "10 Things I Regret About Node.js - Ryan Dahl"
+      }
+    ]
+  },
+  {
+    "date": "2018-06-16",
+    "img": "2018-06-16.jpg",
+    "links": [
+      {
+        "link": "https://www.sitepoint.com/es2018-whats-new/",
+        "title": "What’s New in ES2018"
+      },
+      {
+        "link": "https://vue-native.io",
+        "title": "Vue Native is a framework to build cross platform native mobile apps using JavaScript"
+      },
+      {
+        "link": "https://twitter.com/TheLarkInn/status/1006746626617008128?ref_src=twsrc%5Etfw&amp;ref_url=https%3A%2F%2Freact-etc.net%2Fentry%2Fmicrosoft-office-rewrite-to-react-js-nears-completion",
+        "title": "Office 365 Is Being Rewritten in JavaScript"
+      },
+      {
+        "link": "https://www.infoq.com/news/2018/05/medium-reactjs-graphql-migration",
+        "title": "Migrating Medium to React.js and GraphQL"
+      },
+      {
+        "link": "https://v8project.blogspot.com/2018/06/concurrent-marking.html",
+        "title": "Concurrent marking in V8"
+      },
+      {
+        "link": "https://www.thenativeweb.io/blog/2018-06-12-15-47-from-node-to-go-there-and-back-again/",
+        "title": "From Node.js to Go: There, and back again"
+      },
+      {
+        "link": "https://mathiasbynens.be/notes/shapes-ics",
+        "title": "JavaScript engine fundamentals: Shapes and Inline Caches"
+      },
+      {
+        "link": "https://trevordmiller.com/blog/learning-routine",
+        "title": "Staying up-to-date as a software developer with a daily learning routine"
+      },
+      {
+        "link": "https://statico.github.io/vim3.html",
+        "title": "Vim after 15 years"
+      },
+      {
+        "link": "https://github.com/s-matyukevich/raspberry-pi-os",
+        "title": "Learning operating system development using Linux kernel and Raspberry Pi"
+      },
+      {
+        "link": "https://medium.com/qiskitters/how-to-program-a-quantum-computer-982a9329ed02",
+        "title": "How to program a quantum computer"
+      }
+    ]
+  },
+  {
+    "date": "2018-07-06",
+    "img": "2018-07-06.jpg",
+    "links": [
+      {
+        "link": "https://remysharp.com/2018/06/26/an-adventure-in-sparse-arrays",
+        "title": "An adventure in sparse arrays"
+      },
+      {
+        "link": "https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e",
+        "title": "How JavaScript works: the internals of Shadow DOM + how to build self-contained components"
+      },
+      {
+        "link": "https://www.sitepoint.com/single-page-app-without-framework/",
+        "title": "Build a JavaScript Single Page App Without a Framework"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2018/04/hello-wasm-pack/",
+        "title": "Hello wasm-pack!"
+      },
+      {
+        "link": "https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/",
+        "title": "Web Assembly and Go: A look to the future"
+      },
+      {
+        "link": "https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen",
+        "title": "What Happens If Your JWT Is Stolen?"
+      },
+      {
+        "link": "https://javascript.info",
+        "title": "The Modern JavaScript Tutorial"
+      },
+      {
+        "link": "https://code.joejag.com/2016/anti-if-the-missing-patterns.html",
+        "title": "Anti-If: The missing patterns"
+      },
+      {
+        "link": "https://blog.hasura.io/why-not-use-a-json-dsl-instead-of-graphql-d29f20cc97d2",
+        "title": "Why you should use GraphQL instead of a JSON DSL"
+      },
+      {
+        "link": "https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/",
+        "title": "Why GraphQL: Advantages, Disadvantages &amp; Alternatives"
+      },
+      {
+        "link": "https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7",
+        "title": "REST vs. GraphQL: A Critical Review"
+      },
+      {
+        "link": "https://www.smashingmagazine.com/2018/07/redux-designers-guide/",
+        "title": "What Is Redux: A Designer’s Guide"
+      },
+      {
+        "link": "https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/",
+        "title": "Reduce JavaScript Payloads with Tree Shaking"
+      },
+      {
+        "link": "https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab",
+        "title": "How JavaScript works: WebRTC and the mechanics of peer to peer networking"
+      },
+      {
+        "link": "https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505",
+        "title": "Get Better Type Checking in JavaScript with the Maybe Type"
+      }
+    ]
+  },
+  {
+    "date": "2018-07-21",
+    "img": "2018-07-21.jpg",
+    "links": [
+      {
+        "link": "https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a",
+        "title": "15 HTML element methods you’ve potentially never heard of"
+      },
+      {
+        "link": "https://blog.bloomca.me/2018/07/09/nodejs-repl-in-depth.html",
+        "title": "Node.js REPL in Depth"
+      },
+      {
+        "link": "https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/",
+        "title": "The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM"
+      },
+      {
+        "link": "https://blog.scottlogic.com/2018/07/20/wasm-future.html",
+        "title": "The future of WebAssembly - A look at upcoming features and proposals"
+      },
+      {
+        "link": "https://github.com/GoogleChromeLabs/ndb",
+        "title": "ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools"
+      }
+    ]
+  },
+  {
+    "date": "2018-07-29",
+    "img": "2018-07-29.jpg",
+    "links": [
+      {
+        "link": "https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast",
+        "title": "Why the New V8 is so Damn Fast"
+      },
+      {
+        "link": "https://words.steveklabnik.com/is-webassembly-the-return-of-java-applets-flash",
+        "title": "Is WebAssembly the return of Java Applets &amp; Flash?"
+      },
+      {
+        "link": "https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/",
+        "title": "Build a state management system with vanilla JavaScript"
+      },
+      {
+        "link": "https://github.com/trekhleb/javascript-algorithms",
+        "title": "JavaScript Algorithms and Data Structures"
+      },
+      {
+        "link": "https://twitter.com/mislav/status/1022058279000842240",
+        "title": "Github and vanila js"
+      },
+      {
+        "link": "https://github.com/chubin/cheat.sh",
+        "title": "curl cht.sh"
+      }
+    ]
+  },
+  {
+    "date": "2018-08-03",
+    "img": "2018-08-03.jpg",
+    "links": [
+      {
+        "link": "https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d",
+        "title": "We’re under attack! 23+ Node.js security best practices"
+      },
+      {
+        "link": "https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f",
+        "title": "This one line of Javascript made FT.com 10 times slower"
+      },
+      {
+        "link": "https://blog.bitsrc.io/7-javascript-eeg-mind-reading-libraries-for-2018-9a8e28544cd7",
+        "title": "7 Javascript EEG Mind Reading Libraries for 2018"
+      },
+      {
+        "link": "https://nodesource.com/blog/the-age-of-node-js-and",
+        "title": "The Age of “Node.js and…”"
+      },
+      {
+        "link": "https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/",
+        "title": "Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2"
+      },
+      {
+        "link": "https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4",
+        "title": "The Cost Of JavaScript In 2018"
+      }
+    ]
+  },
+  {
+    "date": "2018-08-11",
+    "img": "2018-08-11.jpg",
+    "links": [
+      {
+        "link": "https://blog.marvelapp.com/body-text-small/",
+        "title": "Your Body Text Is Too Small"
+      },
+      {
+        "link": "https://github.com/rhysd/vim.wasm",
+        "title": "Vim editor ported to WebAssembly"
+      },
+      {
+        "link": "https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953",
+        "title": "Threads in Node 10.5.0: a practical intro"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553",
+        "title": "JavaScript essentials: why you should know how the engine works"
+      },
+      {
+        "link": "http://voidcanvas.com/nodejs-event-loop/",
+        "title": "Node.js event loop workflow &amp; lifecycle in low level"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b",
+        "title": "Here are three upcoming changes to JavaScript that you’ll love"
+      },
+      {
+        "link": "https://github.com/i0natan/nodebestpractices",
+        "title": "The largest Node.JS best practices list (August 2018)"
+      },
+      {
+        "link": "http://delved.org/monoliths-always-pay-their-debts/",
+        "title": "Monoliths always pay their debts"
+      },
+      {
+        "link": "https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/",
+        "title": "How to deal with dirty side effects in your pure functional JaVAScript"
+      }
+    ]
+  },
+  {
+    "date": "2018-08-20",
+    "img": "2018-08-20.jpg",
+    "links": [
+      {
+        "link": "http://thecodebarbarian.com/an-overview-of-buffers-in-node-js.html",
+        "title": "An Overview of Buffers in Node.js"
+      },
+      {
+        "link": "https://www.digitalocean.com/community/tutorials/how-to-develop-a-node-js-tcp-server-application-using-pm2-and-nginx-on-ubuntu-16-04",
+        "title": "How To Develop a Node.js TCP Server Application using PM2 and Nginx on Ubuntu 16.04"
+      },
+      {
+        "link": "https://mobiforge.com/design-development/the-generic-sensor-api",
+        "title": "The Generic Sensor API"
+      },
+      {
+        "link": "https://checklyhq.com/blog/2018/08/creating-a-chrome-extension-in-2018-the-good-the-bad-and-the-meh/",
+        "title": "Creating a Chrome extension in 2018: The good, the bad and the meh"
+      },
+      {
+        "link": "https://mathiasbynens.be/notes/prototypes",
+        "title": "JavaScript engine fundamentals: optimizing prototypes"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=lDLQA6lQSFg",
+        "title": "Keep Betting on JavaScript by Kyle Simpson · JSCamp Barcelona 2018 <a href=\"https://speakerdeck.com/getify/keep-betting-on-js\" rel=\"nofollow\">slides</a>"
+      },
+      {
+        "link": "https://github.com/typpo/showers",
+        "title": "Rendering of debris clouds in the solar system that cause meteor showers."
+      },
+      {
+        "link": "https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3",
+        "title": "Designing very large (JavaScript) applications"
+      }
+    ]
+  },
+  {
+    "date": "2018-08-25",
+    "img": "2018-08-25.jpg",
+    "links": [
+      {
+        "link": "https://www.wired.com/story/the-solo-javascript-developer-challenging-google-facebook",
+        "title": "The solo JavaScript developer challenging Google and Facebook"
+      },
+      {
+        "link": "https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/",
+        "title": "First steps with tensorflow.js"
+      },
+      {
+        "link": "https://beta.observablehq.com/@mateogianolio/complex-numbers-in-javascript",
+        "title": "Complex numbers in JavaScript"
+      },
+      {
+        "link": "https://v8project.blogspot.com/2018/08/liftoff.html",
+        "title": "Liftoff: a new baseline compiler for WebAssembly in V8"
+      }
+    ]
+  },
+  {
+    "date": "2018-09-01",
+    "img": "2018-09-01.jpg",
+    "links": [
+      {
+        "link": "https://medium.com/dailyjs/4-javascript-techniques-for-building-accessible-web-interfaces-348f820c157f",
+        "title": "How to Write Accessible JavaScript"
+      },
+      {
+        "link": "https://blog.lftechnology.com/date-ing-javascript-6203650b752c",
+        "title": "Date-ing JavaScript"
+      },
+      {
+        "link": "https://gofore.com/en/why-you-should-replace-foreach/",
+        "title": "Why you should replace forEach with map and filter in JavaScript"
+      },
+      {
+        "link": "https://blog.sourcerer.io/why-is-a-java-guy-so-excited-about-node-js-and-javascript-7cfc423efb44",
+        "title": "Why is a Java guy so excited about Node.js and JavaScript?"
+      },
+      {
+        "link": "https://developers.google.com/web/updates/2018/08/wasm-av1",
+        "title": "Extending the browser with WebAssembly"
+      },
+      {
+        "link": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+        "title": "Front-End Performance Checklist"
+      },
+      {
+        "link": "https://babeljs.io/blog/2018/08/27/7.0.0",
+        "title": "Babel 7 Released"
+      },
+      {
+        "link": "https://github.com/Rich-Harris/shimport",
+        "title": "Use JavaScript modules in all browsers, including dynamic imports"
+      },
+      {
+        "link": "http://jamesthom.as/blog/2018/08/13/serverless-machine-learning-with-tensorflow-dot-js/",
+        "title": "Serverless Machine Learning With TensorFlow.js"
+      },
+      {
+        "link": "https://cravencode.com/post/docker/nodejs-local-development/",
+        "title": "How to use Docker for Node.js development"
+      },
+      {
+        "link": "https://itnext.io/how-to-write-a-node-js-cli-using-opencv-with-neural-network-models-for-image-classification-57785d6f09fe",
+        "title": "How to Write a Node.js CLI using OpenCV with Neural Network Models for Image Classification"
+      },
+      {
+        "link": "https://github.com/zeit/pkg",
+        "title": "Package your Node.js project into an executable"
+      }
+    ]
+  },
+  {
+    "date": "2018-09-11",
+    "img": "2018-09-11.jpg",
+    "links": [
+      {
+        "link": "https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/",
+        "title": "A tour of JavaScript timers on the web"
+      },
+      {
+        "link": "https://githubengineering.com/removing-jquery-from-github-frontend/",
+        "title": "Removing jQuery from GitHub.com frontend"
+      },
+      {
+        "link": "https://developers.google.com/web/updates/2018/08/devtools",
+        "title": "What's New In DevTools (Chrome 70)"
+      },
+      {
+        "link": "https://zellwk.com/blog/good-frontend-developer/",
+        "title": "What makes a good frontend developer?"
+      },
+      {
+        "link": "https://hackernoon.com/goodbye-redux-26e6a27b3a0b",
+        "title": "Goodbye Redux"
+      },
+      {
+        "link": "https://angularjs-de.github.io/javascript-type-coercion/#/",
+        "title": "JavaScript - Type Coercion Challenge"
+      },
+      {
+        "link": "https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/",
+        "title": "Reduce JavaScript Payloads with Code Splitting"
+      },
+      {
+        "link": "http://2ality.com/2018/03/javascript-typescript-reasonml.html",
+        "title": "JavaScript vs. TypeScript vs. ReasonML"
+      },
+      {
+        "link": "https://loredanacirstea.github.io/es6-design-patterns/",
+        "title": "Software design patterns implemented in EcmaScript 6"
+      },
+      {
+        "link": "https://jlongster.com/Stop-Writing-JavaScript-Compilers--Make-Macros-Instead",
+        "title": "Stop Writing JavaScript Compilers! Make Macros Instead"
+      }
+    ]
+  },
+  {
+    "date": "2018-09-16",
+    "img": "2018-09-16.jpg",
+    "links": [
+      {
+        "link": "http://www.lowjs.org",
+        "title": "The port of Node.JS for embedded devices"
+      },
+      {
+        "link": "https://github.com/yarnpkg/rfcs/pull/101",
+        "title": "Yarn Plug'n'Play: Getting rid of node_modules"
+      },
+      {
+        "link": "https://medium.com/content-uneditable/implementing-single-file-web-components-22adeaa0cd17",
+        "title": "Implementing single file Web Components"
+      },
+      {
+        "link": "https://timkadlec.com/remembers/2018-09-06-chromes-noscript-intervention/",
+        "title": "Chrome's NOSCRIPT Intervention"
+      },
+      {
+        "link": "https://blog.npmjs.org/post/178027064160/next-generation-package-management",
+        "title": "Next Generation Package Management"
+      },
+      {
+        "link": "https://github.com/getgauge/taiko",
+        "title": "A node.js library to automate chrome/chromium browser"
+      },
+      {
+        "link": "https://github.com/axa-group/nlp.js",
+        "title": "An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more"
+      }
+    ]
+  },
+  {
+    "date": "2018-09-22",
+    "img": "2018-09-22.jpg",
+    "links": [
+      {
+        "link": "https://michelenasti.com/2018/09/19/Javascript-chiamare-funzioni-senza-usare-parentesi-(what!).html",
+        "title": "Javascript: call functions without using parentheses (what?!)"
+      },
+      {
+        "link": "https://www.heartinternet.uk/blog/3-features-that-could-change-the-future-of-javascript/",
+        "title": "3 features that could change the future of JavaScript"
+      },
+      {
+        "link": "https://phoboslab.org/log/2018/09/underrun-making-of",
+        "title": "UNDERRUN – Making of"
+      },
+      {
+        "link": "https://philipwalton.com/articles/idle-until-urgent/",
+        "title": "Idle Until Urgent"
+      },
+      {
+        "link": "https://developers.google.com/web/updates/2018/09/inside-browser-part1",
+        "title": "Inside look at modern web browser (part 1)"
+      },
+      {
+        "link": "https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/",
+        "title": "Explore the immersive web with Firefox Reality"
+      },
+      {
+        "link": "http://randycoulman.com/blog/categories/thinking-in-ramda/",
+        "title": "Thinking in Ramda"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/focus-and-deep-work-your-secret-weapons-to-becoming-a-10x-developer-8e203a6ad291",
+        "title": "Focus and Deep Work—Your Secret Weapons to Becoming a 10X Developer"
+      }
+    ]
+  },
+  {
+    "date": "2018-09-29",
+    "img": "2018-09-29.jpg",
+    "links": [
+      {
+        "link": "https://github.com/30-seconds/30-seconds-of-code",
+        "title": "Curated collection of useful Javascript snippets that you can understand in 30 seconds or less"
+      },
+      {
+        "link": "https://ponyfoo.com/books/mastering-modular-javascript#toc",
+        "title": "Mastering Modular JavaScript"
+      },
+      {
+        "link": "https://www.blog.drewcutchins.com/blog/2018-8-16-flocking",
+        "title": "Flocking"
+      },
+      {
+        "link": "https://blog.logrocket.com/javascript-typeof-2511d53a1a62",
+        "title": "Understanding type-checking in JavaScript"
+      },
+      {
+        "link": "https://snipcart.com/blog/javascript-podcasts",
+        "title": "16 Hand-Picked JavaScript Podcasts Still Running in 2018"
+      },
+      {
+        "link": "https://scotch.io/tutorials/5-tips-to-write-better-conditionals-in-javascript",
+        "title": "5 Tips to Write Better Conditionals in JavaScript"
+      },
+      {
+        "link": "https://spaceninja.com/2018/09/17/what-is-modular-css/",
+        "title": "What is Modular CSS?"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2018/09/converting-a-webgl-application-to-webvr/",
+        "title": "Converting a WebGL application to WebVR"
+      },
+      {
+        "link": "https://github.com/airbnb/javascript#ecmascript-6-es-2015-styles",
+        "title": "Airbnb ECMAScript 6+ (ES 2015+) Styles"
+      },
+      {
+        "link": "https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/",
+        "title": "How to Build a Low-tech Website?"
+      }
+    ]
+  },
+  {
+    "date": "2018-10-07",
+    "img": "2018-10-07.jpg",
+    "links": [
+      {
+        "link": "https://github.com/maierfelix/node-vulkan",
+        "title": "Vulkan bindings for JavaScript"
+      },
+      {
+        "link": "https://mathiasbynens.be/notes/prototypes",
+        "title": "JavaScript engine fundamentals: optimizing prototypes"
+      },
+      {
+        "link": "https://www.reaktor.com/blog/fear-trust-and-javascript/",
+        "title": "Fear, trust and JavaScript: When types and functional programming fail"
+      },
+      {
+        "link": "https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db",
+        "title": "Five tips I wish I knew when I started with Typescript"
+      },
+      {
+        "link": "https://amphtml.wordpress.com/2018/08/21/workerdom/",
+        "title": "WorkerDOM: Concurrency for JavaScript programming with the DOM"
+      },
+      {
+        "link": "https://developers.google.com/web/fundamentals/payments/",
+        "title": "Web Payments Overview"
+      },
+      {
+        "link": "https://www.toptal.com/clojure/clojurescript-tutorial-react-front-end",
+        "title": "Unearthing ClojureScript for Front-end Development"
+      },
+      {
+        "link": "https://www.telerik.com/blogs/goodbye-javascript-hello-webassembly",
+        "title": "Goodbye JavaScript, Hello WebAssembly"
+      },
+      {
+        "link": "https://tylermcginnis.com/beginners-guide-to-javascript-prototype/",
+        "title": "A Beginner's Guide to JavaScript's Prototype"
+      },
+      {
+        "link": "https://robinrendle.com/notes/i-dont-believe-in-full-stack-engineering/",
+        "title": "I Don’t Believe in Full-Stack Engineering"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=qIWNoJv4Lyc",
+        "title": "Practical Mini-Projects in Node.js - Umar Hansa"
+      }
+    ]
+  },
+  {
+    "date": "2018-10-14",
+    "img": "2018-10-14.jpg",
+    "links": [
+      {
+        "link": "http://antirez.com/news/51",
+        "title": "Log driven programming is a real productivity booster."
+      },
+      {
+        "link": "https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-/",
+        "title": "Calls between JavaScript and WebAssembly are finally fast"
+      },
+      {
+        "link": "https://medium.com/@kvosswinkel/is-javascript-synchronous-or-asynchronous-what-the-hell-is-a-promise-7aa9dd8f3bfb",
+        "title": "Is JavaScript synchronous or asynchronous? What the hell is a promise?"
+      },
+      {
+        "link": "https://medium.com/@alexnadalin/emit-a-beeping-sound-with-javascript-4eef2c302ea6",
+        "title": "Emit a beeping sound with JavaScript"
+      },
+      {
+        "link": "https://news.ycombinator.com/item?id=18186330",
+        "title": "Node.js setInterval stops working after 2^31 seconds"
+      },
+      {
+        "link": "https://serverless.com/blog/common-node8-mistakes-in-lambda/",
+        "title": "Common Node8 mistakes in Lambda"
+      },
+      {
+        "link": "https://tylermcginnis.com/javascript-visualizer/",
+        "title": "JavaScript visualizer"
+      },
+      {
+        "link": "https://blog.github.com/2018-10-05-js13kgames-highlights-2018/",
+        "title": "13 Games in ≤ 13kB of JavaScript"
+      },
+      {
+        "link": "https://github.com/ballercat/walt",
+        "title": "Walt is a JavaScript-like syntax for WebAssembly text format"
+      }
+    ]
+  },
+  {
+    "date": "2018-10-20",
+    "img": "2018-10-20.jpg",
+    "links": [
+      {
+        "link": "https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/",
+        "title": "Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers"
+      },
+      {
+        "link": "https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437",
+        "title": "Top 10 JavaScript errors from 1000+ projects (and how to avoid them)"
+      },
+      {
+        "link": "https://v8.dev/blog/array-sort",
+        "title": "Getting things sorted in V8"
+      },
+      {
+        "link": "https://www.monterail.com/blog/nodejs-development-enterprises",
+        "title": "6 Main Reasons Why Node.js Has Become a Standard Technology for Enterprise-Level Organizations"
+      },
+      {
+        "link": "https://snipcart.com/blog/learn-typescript-why-use-ts",
+        "title": "Should You Learn TypeScript? (Benefits &amp; Resources)"
+      },
+      {
+        "link": "https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript",
+        "title": "5 Tips to Write Better Conditionals in JavaScript"
+      },
+      {
+        "link": "https://github.com/leonardomso/33-js-concepts#readme",
+        "title": "33 concepts every JavaScript developer should know."
+      },
+      {
+        "link": "https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/",
+        "title": "Why Using reduce() to Sequentially Resolve Promises Works"
+      }
+    ]
+  },
+  {
+    "date": "2018-10-27",
+    "img": "2018-10-27.jpg",
+    "links": [
+      {
+        "link": "https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/",
+        "title": "WebAssembly’s post-MVP future: A cartoon skill tree"
+      },
+      {
+        "link": "https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/",
+        "title": "Property order is predictable in JavaScript objects since ES2015"
+      },
+      {
+        "link": "https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339",
+        "title": "Understanding Currying in JavaScript"
+      },
+      {
+        "link": "https://lemire.me/blog/2018/10/23/is-webassembly-faster-than-javascript/",
+        "title": "Is WebAssembly faster than JavaScript?"
+      },
+      {
+        "link": "https://twobithistory.org/2018/08/05/where-vim-came-from.html",
+        "title": "Where Vim Came From"
+      },
+      {
+        "link": "https://www.toptal.com/javascript/option-maybe-either-future-monads-js",
+        "title": "Option/Maybe, Either, and Future Monads in JavaScript, Python, Ruby, Swift, and Scala"
+      }
+    ]
+  },
+  {
+    "date": "2018-11-03",
+    "img": "2018-11-03.jpg",
+    "links": [
+      {
+        "link": "https://paulmillr.com/posts/using-dark-mode-in-css/",
+        "title": "Using dark mode in CSS with MacOS Mojave"
+      },
+      {
+        "link": "https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with",
+        "title": "Microservices Are Something You Grow Into, Not Begin With"
+      },
+      {
+        "link": "https://3perf.com/talks/web-perf-101/",
+        "title": "Web Performance 101"
+      },
+      {
+        "link": "https://smalldata.tech/blog/2018/11/01/copying-objects-in-javascript",
+        "title": "Copying objects in JavaScript"
+      },
+      {
+        "link": "https://github.com/stephomi/sculptgl",
+        "title": "A WebGL sculpting stuff"
+      }
+    ]
+  },
+  {
+    "date": "2018-11-10",
+    "img": "2018-11-10.jpg",
+    "links": [
+      {
+        "link": "https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9",
+        "title": "A Netflix Web Performance Case Study"
+      },
+      {
+        "link": "https://bocoup.com/blog/announcing-test262-report",
+        "title": "Announcing Test262 report"
+      },
+      {
+        "link": "https://www.nayuki.io/page/creating-a-qr-code-step-by-step",
+        "title": "Creating a QR Code step by step"
+      },
+      {
+        "link": "https://hackernoon.com/why-angular-made-me-quit-web-dev-f63b83a157af",
+        "title": "Why Angular Made Me Quit Web Dev"
+      }
+    ]
+  },
+  {
+    "date": "2018-11-17",
+    "img": "2018-11-17.jpg",
+    "links": [
+      {
+        "link": "https://blog.bitsrc.io/build-a-webcam-communication-app-using-webrtc-9737384e84be",
+        "title": "Build a Webcam Communication App using WebRTC"
+      },
+      {
+        "link": "https://hackernoon.com/styling-logs-in-browser-console-2ec0807dc91a",
+        "title": "Styling logs in browser console"
+      },
+      {
+        "link": "https://bjornjohansen.no/www-or-not",
+        "title": "To www or not to www – Should you use www or not in your domain?"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2018/11/the-power-of-web-components/",
+        "title": "The Power of Web Components"
+      },
+      {
+        "link": "https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786",
+        "title": "Node.js Everywhere with Environment Variables"
+      },
+      {
+        "link": "https://nodehandbook.com",
+        "title": "The Node.js handbook"
+      },
+      {
+        "link": "https://ecom.software/after-two-years-with-typescript-was-it-worth-it/",
+        "title": "After two years with TypeScript – was it worth it?"
+      },
+      {
+        "link": "https://medium.com/dailyjs/goodbye-electron-hello-desktop-pwas-f316b8f39882",
+        "title": "Goodbye Electron, Hello Desktop PWAs"
+      },
+      {
+        "link": "https://v8.dev/blog/fast-async",
+        "title": "Faster async functions and promises"
+      }
+    ]
+  },
+  {
+    "date": "2018-11-24",
+    "img": "2018-11-24.jpg",
+    "links": [
+      {
+        "link": "https://github.com/jxnblk/mdx-deck",
+        "title": "MDX-based presentation decks"
+      },
+      {
+        "link": "https://github.com/kingkool68/generate-ssl-certs-for-local-development",
+        "title": "Generate Self-Signed SSL Certificates for Local Development On A Mac"
+      },
+      {
+        "link": "https://hackernoon.com/why-i-no-longer-use-typescript-with-react-and-why-you-shouldnt-either-e744d27452b4",
+        "title": "Why I no longer use TypeScript with React and why you might want to switch too"
+      },
+      {
+        "link": "https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d",
+        "title": "Transducers: Efficient Data Processing Pipelines in JavaScript"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f",
+        "title": "An Introduction to Git Merge and Git Rebase: What They Do and When to Use Them"
+      }
+    ]
+  },
+  {
+    "date": "2018-12-01",
+    "img": "2018-12-01.jpg",
+    "links": [
+      {
+        "link": "https://verve.co/engineering/graphql-a-retrospective/",
+        "title": "GraphQL: A retrospective"
+      },
+      {
+        "link": "https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f",
+        "title": "Writing memory efficient software applications in Node.js"
+      },
+      {
+        "link": "https://www.coreycleary.me/why-you-should-isolate-express-from-the-rest-of-your-node-application/",
+        "title": "Why you should isolate Express from the rest of your Node application"
+      },
+      {
+        "link": "https://blog.erratasec.com/2018/11/some-notes-about-http3.html",
+        "title": "Some notes about HTTP/3"
+      },
+      {
+        "link": "https://kinsta.com/learn/what-is-http2/",
+        "title": "What is HTTP/2 – The Ultimate Guide"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/",
+        "title": "WebAssembly’s post-MVP future: A cartoon skill tree"
+      },
+      {
+        "link": "https://logrocket.com/blog/switching-to-parcel-from-webpack/",
+        "title": "Switching to Parcel from Webpack"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=aHHZu-i5hpE",
+        "title": "Math In JavaScript Can Be Awesome - Dominic Kramer, Google"
+      }
+    ]
+  },
+  {
+    "date": "2018-12-15",
+    "img": "2018-12-15.jpg",
+    "links": [
+      {
+        "link": "https://shkspr.mobi/blog/2018/11/major-sites-running-unauthenticated-javascript-on-their-payment-pages/",
+        "title": "Major sites running unauthenticated JavaScript on their payment pages"
+      },
+      {
+        "link": "https://dev.to/vintharas/how-to-write-a-game-in-under-13-kb-while-taking-care-of-a-baby-4160",
+        "title": "How to Write a Game in Under 13 Kb While Taking Care of a Baby"
+      },
+      {
+        "link": "https://dev.to/somedood/demystifying-the-long-arrow-operator-4711",
+        "title": "Demystifying the Long Arrow &quot;Operator&quot;"
+      },
+      {
+        "link": "https://medium.com/@nickheiner/securing-the-js-ecosystem-55f87a4a2ceb",
+        "title": "Securing the JS Ecosystem"
+      },
+      {
+        "link": "https://medium.com/cleversonder/all-you-need-to-know-about-the-web-audio-api-3df170559378",
+        "title": "All you need to know about the Web Audio API"
+      },
+      {
+        "link": "https://blog.usejournal.com/little-known-features-of-javascript-901665291387",
+        "title": "Little known features of JavaScript"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=85gJMUEcnkc",
+        "title": "Building a Simple Virtual DOM from Scratch - Jason Yu"
+      }
+    ]
+  },
+  {
+    "date": "2019-01-02",
+    "img": "2019-01-02.jpg",
+    "links": [
+      {
+        "link": "https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/",
+        "title": "How to write async await without try-catch blocks in Javascript"
+      },
+      {
+        "link": "https://medium.zenika.com/immutability-in-javascript-7e1a19b45615",
+        "title": "Immutability in JavaScript"
+      },
+      {
+        "link": "https://johnresig.com/blog/accuracy-of-javascript-time/",
+        "title": "Accuracy of JavaScript Time"
+      },
+      {
+        "link": "https://codability.in/over-explained-javascript-and-v8/",
+        "title": "Over Explained - JavaScript and V8"
+      },
+      {
+        "link": "https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53",
+        "title": "Goodbye, Object Oriented Programming"
+      },
+      {
+        "link": "https://github.com/lip3k/33-js-concepts",
+        "title": "33 Zagadnienia, które każdy programista JS powinien znać "
+      },
+      {
+        "link": "http://2ality.com/2018/12/nodejs-esm-phases.html",
+        "title": "ECMAScript modules in Node.js: the new plan"
+      },
+      {
+        "link": "https://scrimba.com/g/gneuralnetworks",
+        "title": "Neural networks in JavaScrip"
+      },
+      {
+        "link": "https://getfider.com/blog/how-we-reduced-initial-jscss-size/",
+        "title": "How we reduced our initial JS/CSS size by 67%"
+      },
+      {
+        "link": "https://hackertarget.com/ssh-examples-tunnels/",
+        "title": "SSH Examples, Tips &amp; Tunnels"
+      }
+    ]
+  },
+  {
+    "date": "2019-01-13",
+    "img": "2019-01-13.jpg",
+    "links": [
+      {
+        "link": "https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/",
+        "title": "Replacing jQuery With Vue.js: No Build Step Necessary"
+      },
+      {
+        "link": "https://bitsofco.de/whats-new-in-html-5-2/",
+        "title": "What’s New in HTML 5.2?"
+      },
+      {
+        "link": "https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1",
+        "title": "The new (and old) CSS units you've never heard about"
+      },
+      {
+        "link": "https://30-seconds.github.io/30-seconds-of-css/",
+        "title": "A curated collection of useful CSS snippets you can understand in 30 seconds or less."
+      },
+      {
+        "link": "http://2ality.com/2018/12/creating-arrays.html",
+        "title": "Creating and filling Arrays of arbitrary lengths in JavaScript"
+      },
+      {
+        "link": "https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66",
+        "title": "The Chronicles of JavaScript Objects"
+      },
+      {
+        "link": "https://www.lowjs.org",
+        "title": "low.js Node.js for Microcontrollers"
+      },
+      {
+        "link": "http://2ality.com/2018/04/async-iter-nodejs.html",
+        "title": "Reading streams via async iteration in Node.js"
+      },
+      {
+        "link": "https://cravencode.com/post/docker/nodejs-local-development/",
+        "title": "How to use Docker for Node.js development"
+      },
+      {
+        "link": "https://www.javascriptjanuary.com/blog/fancy-function-parameters",
+        "title": "Fancy Function Parameters"
+      },
+      {
+        "link": "https://kernelgonnapanic.pl/2018/12/18/5-rzeczy-ktorych-nie-wiecie-o-JS/",
+        "title": "5 rzeczy których nie wiecie o JavaScript"
+      },
+      {
+        "link": "https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/",
+        "title": "MKCERT: Valid HTTPS certificates for localhost"
+      },
+      {
+        "link": "https://www.javascriptjanuary.com/blog/defensive-javascript",
+        "title": "Defensive JavaScript"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=qOUtkN6M52M",
+        "title": "Making Future Interfaces: Algorithmic Layouts"
+      }
+    ]
+  },
+  {
+    "date": "2019-01-20",
+    "img": "2019-01-20.jpg",
+    "links": [
+      {
+        "link": "https://projects.lukehaas.me/runjs/",
+        "title": "Scratchpad for JavaScript"
+      },
+      {
+        "link": "https://www.sitepen.com/blog/compiling-go-to-webassembly/",
+        "title": "Compiling Go to WebAssembly"
+      },
+      {
+        "link": "https://cathydutton.co.uk/posts/why-i-stopped-using-sass/",
+        "title": "Stepping away from Sass"
+      },
+      {
+        "link": "https://webapplog.com/graphql/",
+        "title": "Why GraphQL is Taking Over APIs"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=b5tK0-tQxZw",
+        "title": "Czym jest TypeScript?"
+      }
+    ]
+  },
+  {
+    "date": "2019-01-26",
+    "img": "2019-01-26.gif",
+    "links": [
+      {
+        "link": "https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b",
+        "title": "The TypeScript Tax"
+      },
+      {
+        "link": "https://developer.okta.com/blog/2019/01/22/whats-new-in-es2019",
+        "title": "What's New in JavaScript for 2019"
+      },
+      {
+        "link": "https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10",
+        "title": "Node.js multithreading: What are Worker Threads and why do they matter?"
+      },
+      {
+        "link": "https://overreacted.io/the-bug-o-notation/",
+        "title": "The “Bug-O” Notation"
+      },
+      {
+        "link": "https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093",
+        "title": "A Better Way to Develop Node.js with Docker"
+      },
+      {
+        "link": "https://github.com/Schniz/fnm",
+        "title": "Fast Node Manager"
+      },
+      {
+        "link": "https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-514d5b3c0eab",
+        "title": "GraphQL concepts I wish someone explained to me a year ago"
+      },
+      {
+        "link": "https://www.javascriptjanuary.com/blog/writing-maintainable-and-readable-javascript-design-patterns",
+        "title": "Writing Maintainable and Readable Javascript: Design Patterns"
+      },
+      {
+        "link": "https://medium.com/@alex.permyakov/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f",
+        "title": "15 Useful JS Examples of map(), reduce() and filter()"
+      },
+      {
+        "link": "http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html",
+        "title": "Convert a String to a Number in JavaScript"
+      },
+      {
+        "link": "https://www.javascriptjanuary.com/blog/how-to-stop-using-browser-devtools-and-start-using-your-editors-debugger",
+        "title": "How to Stop Using Browser Dev Tools and Start Using Your Editor’s Debugger"
+      },
+      {
+        "link": "https://anvaka.github.io/pm/",
+        "title": "Code Galaxies"
+      }
+    ]
+  },
+  {
+    "date": "2019-02-02",
+    "img": "2019-02-02.jpg",
+    "links": [
+      {
+        "link": "http://2ality.com/2019/01/future-js.html",
+        "title": "Future JavaScript: what is still missing?"
+      },
+      {
+        "link": "https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c",
+        "title": "How to Remove Array Duplicates in ES"
+      },
+      {
+        "link": "https://hackernoon.com/enforcing-code-quality-for-node-js-c3b837d7ae17",
+        "title": "Enforcing Code Quality for Node.js"
+      },
+      {
+        "link": "https://towardsdatascience.com/eeg-motor-imagery-classification-in-node-js-with-bci-js-d21f29cf165",
+        "title": "EEG Motor Imagery Classification in Node.js with BCI.js"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2019/01/how-to-make-vr-with-the-web-video-series/",
+        "title": "How to make VR with the web, a new video series"
+      },
+      {
+        "link": "https://levelup.gitconnected.com/always-pass-one-argument-to-your-javascript-function-4140d909937e",
+        "title": "Always pass one argument to your JavaScript function"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/removing-javascripts-this-keyword-makes-it-a-better-language-here-s-why-db28060cc086",
+        "title": "An introduction to GraphQL: how it works and how to use it"
+      }
+    ]
+  },
+  {
+    "date": "2019-02-09",
+    "img": "2019-02-09.jpg",
+    "links": [
+      {
+        "link": "https://pushdata.io/blog/1",
+        "title": "The case for vanilla front-end development"
+      },
+      {
+        "link": "https://blog.bitsrc.io/manage-your-node-app-using-docker-like-a-pro-6266f6516cf",
+        "title": "Manage your Node App using Docker Like a Pro"
+      },
+      {
+        "link": "https://www.smashingmagazine.com/2019/02/regexp-features-regular-expressions/",
+        "title": "New JavaScript Features That Will Change How You Write Regex"
+      },
+      {
+        "link": "https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12",
+        "title": "Diving Deeper in JavaScripts Objects"
+      },
+      {
+        "link": "https://43081j.com/2019/01/first-look-at-deno",
+        "title": "First thoughts on Deno, the JavaScript/TypeScript run-time"
+      },
+      {
+        "link": "https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33",
+        "title": "Using Node.js to Read Really, Really Large Datasets &amp; Files (Pt 1)"
+      },
+      {
+        "link": "https://www.luu.io/posts/web-devs-font-color",
+        "title": "Dear web developers: set the font color, too"
+      }
+    ]
+  },
+  {
+    "date": "2019-02-16",
+    "img": "2019-02-16.jpg",
+    "links": [
+      {
+        "link": "https://developers.google.com/web/updates/2019/02/hotpath-with-wasm",
+        "title": "Replacing a hot path in your app's JavaScript with WebAssembly"
+      },
+      {
+        "link": "https://www.voorhoede.nl/en/blog/bluetooth-anywhere/",
+        "title": "Experimenting with Bluetooth in JavaScript apps on the web, in hybrid apps and React Native"
+      },
+      {
+        "link": "http://2ality.com/2018/02/ecmascript-2019.html",
+        "title": "ECMAScript 2019: the final feature set"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/codebyte-why-are-explicit-semicolons-important-in-javascript-49550bea0b82",
+        "title": "Why explicit semicolons are important in JavaScript"
+      },
+      {
+        "link": "https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29",
+        "title": "Small Functions considered Harmful"
+      }
+    ]
+  },
+  {
+    "date": "2019-03-01",
+    "img": "2019-03-01.jpg",
+    "links": [
+      {
+        "link": "https://medium.com/web-dev-basics/7-alternatives-to-the-div-html-tag-7c888c7b5036",
+        "title": "7 Alternatives to the &lt;div&gt; HTML Tag"
+      },
+      {
+        "link": "http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html",
+        "title": "For vs forEach() vs for/in vs for/of in JavaScript"
+      },
+      {
+        "link": "https://www.manifold.co/blog/we-migrated-to-next-js-to-serve-our-home-page-7-5-faster-559443219c84",
+        "title": "We migrated to Next.js to serve our home page 7.5× faster"
+      },
+      {
+        "link": "https://docs.google.com/document/d/156nh17BpyLNmDmONyC_ZQUbi0h6goNysds2DLXcAzVc/preview",
+        "title": "Faster calls with arguments mismatch"
+      },
+      {
+        "link": "https://habr.com/en/post/440736/",
+        "title": "I ruin developers’ lives with my code reviews and I'm sorry"
+      },
+      {
+        "link": "https://redalemeden.com/blog/2019/we-need-chrome-no-more",
+        "title": "We Need Chrome No More"
+      },
+      {
+        "link": "https://olavihaapala.fi/2019/02/19/how-i-made-my-blog-blazing-fast.html",
+        "title": "How I Made My Blog Blazing Fast"
+      },
+      {
+        "link": "https://blog.usejournal.com/12-strange-things-that-can-happen-after-installing-an-npm-package-45de7fbf39f0",
+        "title": "12 strange things that can happen after installing an NPM package"
+      },
+      {
+        "link": "https://www.creativebloq.com/how-to/21-ways-to-optimise-your-css-and-speed-up-your-site",
+        "title": "21 ways to optimise your CSS and speed up your site"
+      },
+      {
+        "link": "https://www.matuzo.at/blog/the-dark-side-of-the-grid/",
+        "title": "The Dark Side of the Grid (Part 1)"
+      },
+      {
+        "link": "https://mariusschulz.com/blog/advanced-javascript-logging-using-console-group",
+        "title": "Advanced JavaScript Logging Using console.group()"
+      },
+      {
+        "link": "https://blog.logrocket.com/node-js-task-runners-are-they-right-for-you-bb29ea30b7fa",
+        "title": "Node.js task runners: Are they right for you?"
+      },
+      {
+        "link": "https://explainshell.com",
+        "title": "Write down a command-line to see the help text that matches each argument"
+      },
+      {
+        "link": "https://redislabs.com/blog/redis-turns-10/",
+        "title": "Redis Turns 10 – How it started with a single post on Hacker News"
+      },
+      {
+        "link": "https://www.reddit.com/r/typescript/comments/aofcik/38_of_bugs_at_airbnb_could_have_been_prevented_by/",
+        "title": "38% of bugs at Airbnb could have been prevented by TypeScript according to postmortem analysis"
+      },
+      {
+        "link": "https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/",
+        "title": "Top ten most popular docker images each contain at least 30 vulnerabilities"
+      }
+    ]
+  },
+  {
+    "date": "2019-03-08",
+    "img": "2019-03-08.jpg",
+    "links": [
+      {
+        "link": "https://mxstbr.com/thoughts/css-in-js/",
+        "title": "Why I Write CSS in JavaScript"
+      },
+      {
+        "link": "https://gist.github.com/lhorie/c0d9fd9b2aa215f4984f3ce1c8fd01bf",
+        "title": "Longest keyword sequence in JS"
+      },
+      {
+        "link": "https://csswizardry.com/2019/03/cache-control-for-civilians/",
+        "title": "Cache-Control for Civilians"
+      },
+      {
+        "link": "https://venturebeat.com/2019/03/04/w3c-approves-webauthn-as-the-web-standard-for-password-free-logins/",
+        "title": "W3C approves WebAuthn as the web standard for password-free logins"
+      },
+      {
+        "link": "https://auth0.com/blog/use-docker-to-create-a-node-development-environment/",
+        "title": "Use Docker to Create a Node Development Environment"
+      },
+      {
+        "link": "https://github.com/axa-group/nlp.js",
+        "title": "An NLP library for building bots"
+      },
+      {
+        "link": "https://www.coreycleary.me/executing-arrays-of-async-await-javascript-functions-in-series-vs-concurrently/",
+        "title": "Executing arrays of async/await JavaScript functions in series vs. concurrently"
+      },
+      {
+        "link": "https://www.matthewgerstman.com/what-the-functor/",
+        "title": "What the Functor?"
+      },
+      {
+        "link": "https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c",
+        "title": "JavaScript Symbols: But Why?"
+      },
+      {
+        "link": "https://ponyfoo.com/articles/javascript-performance-pitfalls-v8",
+        "title": "JavaScript Performance Pitfalls in V8"
+      },
+      {
+        "link": "https://www.pcjs.org",
+        "title": "PCjs Machines"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=AQOEZVG2WY0",
+        "title": "GOTO 2018 • Why I Was Wrong About TypeScript • TJ VanToll"
+      }
+    ]
+  },
+  {
+    "date": "2019-03-15",
+    "img": "2019-03-15.jpg",
+    "links": [
+      {
+        "link": "https://blog.logrocket.com/tools-and-modern-workflow-for-front-end-developers-505c7227e917",
+        "title": "Tools and modern workflow for front-end developers"
+      },
+      {
+        "link": "https://dev.to/jeremylikness/plasma-gets-rust-y-another-webassembly-experiment-10d2",
+        "title": "Plasma gets Rust-y: Another WebAssembly Experiment"
+      },
+      {
+        "link": "https://jameshfisher.com/2019/03/08/why-cant-i-set-the-font-size-of-a-visited-link.html",
+        "title": "Why can’t I set the font size of a visited link?"
+      },
+      {
+        "link": "https://medium.com/@liam.john.mcmains/getting-started-with-web-components-75e4837dac4a",
+        "title": "Getting Started with Web Components: Building a Color Palette Generator"
+      },
+      {
+        "link": "https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses",
+        "title": "Why does Google prepend while(1); to their JSON responses?"
+      },
+      {
+        "link": "https://hackaday.com/2019/03/05/good-code-documents-itself-and-other-hilarious-jokes-you-shouldnt-tell-yourself/",
+        "title": "“Good code documents itself” and other hilarious jokes you shouldn’t tell yourself"
+      },
+      {
+        "link": "https://inventi.studio/en/blog/why-you-shouldnt-use-moment-js",
+        "title": "Why you shouldn't use Moment.js"
+      },
+      {
+        "link": "https://tsh.io/blog/how-i-ruined-my-javascript-code-still-won-coding-challenge/",
+        "title": "How I ruined my JavaScript code and still won the Coding Challenge"
+      },
+      {
+        "link": "https://github.com/whatwg/html/issues/4432",
+        "title": "Add first-class support for differential script loading"
+      },
+      {
+        "link": "https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83",
+        "title": "7 Tricks with Resting and Spreading JavaScript Objects"
+      },
+      {
+        "link": "https://developers.google.com/web/updates/2019/03/kv-storage",
+        "title": "KV Storage: the Web's First Built-in Module"
+      },
+      {
+        "link": "http://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/",
+        "title": "Give Me Back My Monolith"
+      }
+    ]
+  },
+  {
+    "date": "2019-03-23",
+    "img": "2019-03-23.jpg",
+    "links": [
+      {
+        "link": "https://blog.logrocket.com/getting-started-with-postcss-in-2019-484262a4d725",
+        "title": "Getting started with PostCSS in 2019"
+      },
+      {
+        "link": "https://davidwalsh.name/i-dont-hate-arrow-functions",
+        "title": "I Don’t Hate Arrow Functions"
+      },
+      {
+        "link": "https://dev.to/creeland/intro-to-rxjs-concepts-with-vanilla-javascript-4aji",
+        "title": "Intro to RxJS Concepts with Vanilla JavaScript"
+      },
+      {
+        "link": "https://blog.jetbrains.com/webstorm/2019/03/get-started-building-apps-with-vue-js-in-webstorm/",
+        "title": "Get started building apps with Vue.js in WebStorm"
+      },
+      {
+        "link": "https://dev.to/selbekk/redux-in-27-lines-2i92",
+        "title": "Redux in 27 lines"
+      }
+    ]
+  },
+  {
+    "date": "2019-03-29",
+    "img": "2019-03-29.jpg",
+    "links": [
+      {
+        "link": "https://dev.to/emmawedekind/10-html-element-you-didnt-know-you-needed-3jo4",
+        "title": "10 HTML Elements You Didn't Know You Needed"
+      },
+      {
+        "link": "http://clagnut.com/blog/2395",
+        "title": "All you need to know about hyphenation in CSS"
+      },
+      {
+        "link": "https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7",
+        "title": "The shortest way to conditional insert properties into an object literal"
+      },
+      {
+        "link": "https://www.pikapkg.com/blog/pika-web-a-future-without-webpack",
+        "title": "A Future Without Webpack"
+      },
+      {
+        "link": "https://medium.com/@nur_islam/complete-node-js-project-setup-from-docker-to-testing-docker-restfull-apis-with-node-js-9f384e06734a",
+        "title": "Complete Node js Project Setup from Docker to Testing"
+      },
+      {
+        "link": "https://2019.jsconf.eu/news/how-we-built-the-fastest-conference-website-in-the-world/",
+        "title": "How we built the fastest conference website in the world"
+      },
+      {
+        "link": "https://alistapart.com/article/responsible-javascript-part-1",
+        "title": "Responsible JavaScript: Part I"
+      },
+      {
+        "link": "https://wwwtyro.net/2019/03/21/advanced-map-shading.html",
+        "title": "Advanced Map Shading"
+      },
+      {
+        "link": "https://deanhume.com/experimenting-with-the-streams-api/",
+        "title": "Experimenting with the Streams API"
+      },
+      {
+        "link": "https://alexnisnevich.github.io/untrusted://alexnisnevich.github.io/untrusted/",
+        "title": "Untrusted – a user JavaScript adventure game"
+      },
+      {
+        "link": "https://webgl2fundamentals.org",
+        "title": "WebGL2 Fundamentals"
+      }
+    ]
+  },
+  {
+    "date": "2019-04-05",
+    "img": "2019-04-05.jpg",
+    "links": [
+      {
+        "link": "https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c",
+        "title": "JavaScript Symbols: But Why?"
+      },
+      {
+        "link": "https://medium.com/@alexnault/functional-programming-with-javascript-in-3-tips-f282934947e5",
+        "title": "Functional Programming with JavaScript in 3 Steps"
+      },
+      {
+        "link": "https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/",
+        "title": "How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study)"
+      },
+      {
+        "link": "https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i",
+        "title": "Stop using so many divs! An intro to semantic HTML"
+      },
+      {
+        "link": "https://softwareontheroad.com/nodejs-scalability-issues/",
+        "title": "3 node.js scalability problems and how to solve them"
+      },
+      {
+        "link": "https://dev.to/azure/how-do-you-structure-your-code-when-moving-your-api-from-express-to-serverless-functions-30bc",
+        "title": "How do You Structure Your Code When Moving Your API from Express to Serverless Functions?"
+      },
+      {
+        "link": "https://thenewstack.io/which-programming-languages-use-the-least-electricity",
+        "title": "Which Programming Languages Use the Least Electricity?"
+      }
+    ]
+  },
+  {
+    "date": "2019-04-13",
+    "img": "2019-04-13.jpg",
+    "links": [
+      {
+        "link": "https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9",
+        "title": "Programming using Web Assembly"
+      },
+      {
+        "link": "https://snyk.io/blog/making-sense-of-package-lock-files-in-the-npm-ecosystem/",
+        "title": "Do you really know how a lockfile works for yarn and npm packages?"
+      },
+      {
+        "link": "https://jrl.ninja/etc/1/",
+        "title": "58 bytes of css to look great nearly everywhere"
+      },
+      {
+        "link": "https://blog.bitsrc.io/you-dont-need-lodash-or-how-i-started-loving-javascript-functions-3f45791fa6cd",
+        "title": "Pure JavaScript Functions as a Replacement for Lodash"
+      },
+      {
+        "link": "https://medium.com/@amsterdamjs/kyle-simpson-ive-forgotten-more-javascript-than-most-people-ever-learn-3bddc6c13e93",
+        "title": "I’ve Forgotten More JavaScript Than Most People Ever Learn"
+      },
+      {
+        "link": "https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca",
+        "title": "Design patterns in modern JavaScript development"
+      },
+      {
+        "link": "https://blog.bitsrc.io/why-i-chose-vue-over-react-f1507fa8e382",
+        "title": "Why I Chose Vue over React"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=z6JRlx5NC9E",
+        "title": "Ryan Dahl. Deno, a new way to JavaScript"
+      }
+    ]
+  },
+  {
+    "date": "2019-04-26",
+    "img": "2019-04-26.jpg",
+    "links": [
+      {
+        "link": "https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/",
+        "title": "Standardizing WASI: A system interface to run WebAssembly outside the web"
+      },
+      {
+        "link": "https://blog.scottlogic.com/2019/04/03/upcoming-webhid-api.html",
+        "title": "Upcoming WebHID API - access Bluetooth/USB HID devices in web applications"
+      },
+      {
+        "link": "https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework",
+        "title": "Web Components will replace your frontend framework"
+      },
+      {
+        "link": "https://mathiasbynens.be/notes/globalthis",
+        "title": "A horrifying globalThis polyfill in universal JavaScript"
+      },
+      {
+        "link": "https://medium.com/@xilefmai/rendering-a-triangle-with-vulkan-and-javascript-1-aed75b6fd69",
+        "title": "Rendering a Triangle with Vulkan and JavaScript"
+      },
+      {
+        "link": "https://samdesota.com/2019/04/21/javascript-debuggers-are-broken.html",
+        "title": "Javascript debuggers are broken, and it's our fault."
+      },
+      {
+        "link": "http://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm",
+        "title": "Why OO Sucks"
+      },
+      {
+        "link": "https://twitter.com/hillelogram/status/1119709859979714560",
+        "title": "Co jest najważniejsze w programowaniu"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6",
+        "title": "You should never ever run directly against Node.js in production. Maybe."
+      },
+      {
+        "link": "https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f",
+        "title": "Introducing Node.js 12"
+      },
+      {
+        "link": "https://hacks.mozilla.org/2019/04/introducing-mozilla-webthings/",
+        "title": "Introducing Mozilla WebThings"
+      },
+      {
+        "link": "https://www.smashingmagazine.com/2019/04/optimization-performance-resource-hints/",
+        "title": "Optimizing Performance With Resource Hints"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-04",
+    "img": "2019-05-04.jpg",
+    "links": [
+      {
+        "link": "https://davidwalsh.name/javascript-tricks",
+        "title": "7 Useful JavaScript Tricks"
+      },
+      {
+        "link": "https://github.com/lirantal/dockly",
+        "title": "Immersive terminal interface for managing docker containers and services"
+      },
+      {
+        "link": "https://blog.logrocket.com/is-typescript-on-node-js-good-enough-for-java-developers-f5e879e9e6d7",
+        "title": "Is Typescript on Node.js good enough for Java developers?"
+      },
+      {
+        "link": "https://blogs.windows.com/buildingapps/2019/04/30/babylon-js-4-0-is-here/#Oi2UXy83ZiCoDMm7.97",
+        "title": "Babylon.js 4.0"
+      },
+      {
+        "link": "https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki",
+        "title": "Javascript Array.push is 945x faster than Array.concat"
+      },
+      {
+        "link": "http://frankforce.com/?p=5826",
+        "title": "I’m only making business card sized games now"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-10",
+    "img": "2019-05-10.jpg",
+    "links": [
+      {
+        "link": "https://webkit.org/blog/8840/dark-mode-support-in-webkit/",
+        "title": "Dark Mode Support in WebKit"
+      },
+      {
+        "link": "https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i",
+        "title": "Stop using so many divs! An intro to semantic HTML"
+      },
+      {
+        "link": "https://medium.com/the-challenge/the-javascript-developers-intro-to-crypto-3dcd7839f2e7",
+        "title": "The JavaScript Developer’s Intro to Crypto"
+      },
+      {
+        "link": "https://www.trysmudford.com/blog/pedalboard/",
+        "title": "Building a JavaScript guitar pedalboard"
+      },
+      {
+        "link": "https://www.lowjs.org",
+        "title": "Node.js for Microcontrollers"
+      },
+      {
+        "link": "https://freshman.tech/vim-javascript/",
+        "title": "A guide to setting up Vim for JavaScript development"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=s2h28p4s-Xs",
+        "title": "How to build a CLI with Node.js"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=myydDX-us4o",
+        "title": "Watch Me Build a Trading Bot"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=c0oy0vQKEZE",
+        "title": "What’s new in JavaScript (Google I/O ’19)"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-17",
+    "img": "2019-05-17.jpg",
+    "links": [
+      {
+        "link": "https://zaiste.net/15-git-commands-you-may-not-know/",
+        "title": "15 Git Commands You May Not Know"
+      },
+      {
+        "link": "https://git-rebase.io",
+        "title": "git rebase in depth"
+      },
+      {
+        "link": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+        "title": "You don't (may not) need Moment.js"
+      },
+      {
+        "link": "https://jrsinclair.com/articles/2019/elegant-error-handling-with-the-js-either-monad/",
+        "title": "Elegant error handling with the JavaScript either monad"
+      },
+      {
+        "link": "https://blog.bitsrc.io/a-practical-guide-to-es6-proxy-229079c3c2f0",
+        "title": "A practical guide to Javascript Proxy"
+      },
+      {
+        "link": "https://blog.cloudflare.com/binary-ast/",
+        "title": "Faster script loading with BinaryAST?"
+      },
+      {
+        "link": "https://github.com/getify/functional-light-js",
+        "title": "Functional-Light JavaScript (book)"
+      },
+      {
+        "link": "https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb",
+        "title": "Impress your colleagues with these NPM tricks"
+      },
+      {
+        "link": "https://dev.to/emmawedekind/creating-graphs-with-javascript-4efm",
+        "title": "Creating Graphs With JavaScript"
+      },
+      {
+        "link": "https://cvcompiler.com/blog/game-of-frameworks-javascript-trends-of-2019/",
+        "title": "Game of Frameworks: JavaScript trends of 2019"
+      }
+    ]
+  },
+  {
+    "date": "2019-05-25",
+    "img": "2019-05-25.jpg",
+    "links": [
+      {
+        "link": "https://www.twilio.com/blog/lockfiles-nodejs",
+        "title": "When Not to Use Lock Files with Node.js"
+      },
+      {
+        "link": "http://thecodebarbarian.com/the-80-20-guide-to-promises-in-node-js.html",
+        "title": "The 80/20 Guide to Promises in Node.js"
+      },
+      {
+        "link": "https://amitbend.com/node.js/2019/05/13/five-free-ways-to-host-your-node-app-2019",
+        "title": "5 Free Ways To Host Your Node.js App In 2019"
+      },
+      {
+        "link": "https://areknawo.com/node-js-file-streams-explained/",
+        "title": "Node.js file streams explained!"
+      },
+      {
+        "link": "https://nodejs.org/en/blog/release/v12.3.0/",
+        "title": "Node v12.3.0 (with --experimental-wasm-modules flag)"
+      },
+      {
+        "link": "https://www.joshwcomeau.com/posts/folding-the-dom/",
+        "title": "Folding the DOM"
+      },
+      {
+        "link": "https://medium.freecodecamp.org/javascript-async-and-await-in-loops-30ecc5fb3939",
+        "title": "JavaScript async and await in loops"
+      },
+      {
+        "link": "https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki",
+        "title": "Javascript Array.push is 945x faster than Array.concat"
+      },
+      {
+        "link": "https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/",
+        "title": "WebAssembly at eBay: A Real-World Use Case"
+      },
+      {
+        "link": "https://devinduct.com/blogpost/22/javascript-clean-code-best-practices",
+        "title": "JavaScript Clean Code - Best Practices"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=kZFhm7aW8A4",
+        "title": "Making a Video Game in a Browser's Tab Icon!"
+      }
+    ]
+  },
+  {
+    "date": "2019-06-01",
+    "img": "2019-06-01.jpg",
+    "links": [
+      {
+        "link": "https://blog.callr.tech/static-web-roots/",
+        "title": "Static web - back to the roots?"
+      },
+      {
+        "link": "https://dev.to/areknawo/messing-with-css-through-its-javascript-api-3ja4",
+        "title": "Messing with CSS through its JavaScript API"
+      },
+      {
+        "link": "https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern",
+        "title": "The CSS background-image property as an anti-pattern"
+      },
+      {
+        "link": "https://www.freecodecamp.org/news/4-reasons-your-z-index-isnt-working-and-how-to-fix-it-coder-coder-6bc05f103e6c/",
+        "title": "4 reasons your z-index isn’t working (and how to fix it)—Coder Coder"
+      },
+      {
+        "link": "https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html",
+        "title": "Build your own WebAssembly Compiler"
+      },
+      {
+        "link": "https://dassur.ma/things/c-to-webassembly/",
+        "title": "Compiling C to WebAssembly without Emscripten"
+      },
+      {
+        "link": "https://github.com/eelcocramer/node-bluetooth-serial-port",
+        "title": "Serial I/O over bluetooth for NodeJS"
+      },
+      {
+        "link": "https://arp242.net/jquery.html",
+        "title": "Why I'm still using jQuery in 2019"
+      },
+      {
+        "link": "https://news.ycombinator.com/item?id=19950253",
+        "title": "Virtual DOM is pure overhead (2018)"
+      }
+    ]
+  },
+  {
+    "date": "2019-06-08",
+    "img": "2019-06-08.jpg",
+    "links": [
+      {
+        "link": "https://web.dev/long-tasks-devtools/",
+        "title": "Are long JavaScript tasks delaying your Time to Interactive?"
+      },
+      {
+        "link": "http://2ality.com/2019/05/unpacking-hoisting.html",
+        "title": "Unpacking hoisting"
+      },
+      {
+        "link": "https://www.twilio.com/blog/mediastream-recording-api",
+        "title": "An introduction to the MediaRecorder API"
+      },
+      {
+        "link": "https://jasonformat.com/enabling-modern-js-on-npm/",
+        "title": "Enabling Modern JavaScript on npm"
+      },
+      {
+        "link": "https://softwareontheroad.com/nodejs-jwt-authentication-oauth/",
+        "title": "You don't need passport.js - Guide to node.js authentication"
+      },
+      {
+        "link": "https://csswizardry.com/2019/05/self-host-your-static-assets/",
+        "title": "Self-Host Your Static Assets"
+      },
+      {
+        "link": "https://devinduct.com/blogpost/26/8-useful-javascript-tricks",
+        "title": "8 Useful JavaScript Tricks"
+      },
+      {
+        "link": "https://github.com/tc39/proposal-optional-chaining",
+        "title": "Optional Chaining for JavaScript"
+      },
+      {
+        "link": "https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md",
+        "title": "The economics of package management"
+      }
+    ]
+  },
+  {
+    "date": "2019-06-14",
+    "img": "2019-06-14.jpg",
+    "links": [
+      {
+        "link": "https://blog.greenroots.info/metaprogramming-an-introduction-to-javascriptes6-proxy-cjwkk64ly000gvds10db4l034",
+        "title": "Metaprogramming: An Introduction to JavaScript(ES6) Proxy"
+      },
+      {
+        "link": "https://github.com/lydiahallie/javascript-questions",
+        "title": "List of (Advanced) JavaScript Questions"
+      },
+      {
+        "link": "https://dassur.ma/things/when-workers/",
+        "title": "When should you be using Web Workers?"
+      },
+      {
+        "link": "https://www.richsnapp.com/blog/2019/06-09-reduce-spread-anti-pattern",
+        "title": "The reduce ({...spread}) anti-pattern"
+      },
+      {
+        "link": "https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables",
+        "title": "Why we prefer CSS Custom Properties to SASS variables"
+      },
+      {
+        "link": "https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/",
+        "title": "7 absolute truths I unlearned as junior developer"
+      },
+      {
+        "link": "https://www.hillelwayne.com/post/intermediate-vim/",
+        "title": "At least one Vim trick you might not know"
+      }
+    ]
+  },
+  {
+    "date": "2019-06-21",
+    "img": "2019-06-21.jpg",
+    "links": [
+      {
+        "link": "https://dev.to/remotesynth/confused-by-javascript-s-const-me-too-4dfo",
+        "title": "Confused by JavaScript's const? Me too!"
+      },
+      {
+        "link": "https://nodesource.com/blog/worker-threads-nodejs",
+        "title": "Understanding Worker Threads in Node.js"
+      },
+      {
+        "link": "https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/node-python3.html",
+        "title": "Node js versus Python 3 fastest programs"
+      },
+      {
+        "link": "https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/",
+        "title": "Using AWK and R to parse 25tb"
+      },
+      {
+        "link": "https://medium.com/commitlog/how-to-design-for-the-web-in-2019-a0be4d6702e2",
+        "title": "How to Design for the Web in 2019"
+      },
+      {
+        "link": "https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/",
+        "title": "Everything You Need to Know About Date in JavaScript"
+      },
+      {
+        "link": "https://www.robinwieruch.de/web-components-tutorial/",
+        "title": "Web Components Tutorial for Beginners [2019]"
+      },
+      {
+        "link": "https://dev.to/kenbellows/chromium-and-the-browser-monoculture-problem-420n",
+        "title": "Chromium and the browser monoculture problem"
+      },
+      {
+        "link": "https://aijs.rocks",
+        "title": "A curated collection of inspirational AI-powered JavaScript apps"
+      },
+      {
+        "link": "https://blog.logrocket.com/5-es2019-features-you-can-use-today/",
+        "title": "5 ES2019 features you can use today"
+      }
+    ]
+  },
+  {
+    "date": "2019-06-29",
+    "img": "2019-06-29.jpg",
+    "links": [
+      {
+        "link": "https://v8.dev/blog/cost-of-javascript-2019",
+        "title": "The cost of JavaScript in 2019"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=ZrKjgSfpppM",
+        "title": "Keep Betting on JavaScript - Kyle Simpson"
+      },
+      {
+        "link": "https://blog.pragmaticengineer.com/good-code-reviews-better-code-reviews/",
+        "title": "Good Code Reviews, Better Code Reviews"
+      },
+      {
+        "link": "https://blog.logrocket.com/8-dom-features-you-didnt-know-existed-ec2a0a28fd89/",
+        "title": "8 DOM features you didn’t know existed"
+      }
+    ]
+  },
+  {
+    "date": "2019-07-06",
+    "img": "2019-07-06.jpg",
+    "links": [
+      {
+        "link": "https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/",
+        "title": "Functional JavaScript: What are higher-order functions, and why should anyone care?"
+      },
+      {
+        "link": "https://blog.bitsrc.io/new-intl-apis-in-javascript-c50dc89d2cf3",
+        "title": "New Intl APIs in JavaScript"
+      },
+      {
+        "link": "https://blog.logrocket.com/design-patterns-in-node-js/",
+        "title": "Design patterns in Node.js: a practical guide"
+      },
+      {
+        "link": "https://tkareine.org/articles/lightweight-nodejs-version-switching.html",
+        "title": "Lightweight Node.js version switching"
+      },
+      {
+        "link": "https://medium.com/@jcormont/ive-spent-5-years-writing-a-javascript-framework-on-my-own-af1201f4075c",
+        "title": "I’ve spent 5 years writing a JavaScript framework on my own."
+      },
+      {
+        "link": "http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/",
+        "title": "One Program Written in Python, Go, and Rust"
+      },
+      {
+        "link": "https://medium.com/@shivekkhurana/what-i-learned-after-writing-clojure-for-424-days-straight-8884ec471f8e",
+        "title": "What I learned after writing Clojure for 424 days, straight"
+      }
+    ]
+  },
+  {
+    "date": "2019-07-12",
+    "img": "2019-07-12.jpg",
+    "links": [
+      {
+        "link": "https://news.ycombinator.com/item?id=20404578",
+        "title": "Developers don't understand CORS"
+      },
+      {
+        "link": "https://blog.logrocket.com/what-is-deno/",
+        "title": "What’s Deno, and how is it different from Node.js?"
+      },
+      {
+        "link": "https://tsh.io/blog/new-node-js-features/",
+        "title": "New Node.js 12 features will see it disrupt AI, IoT and more surprising areas"
+      },
+      {
+        "link": "https://blog.logrocket.com/forget-express-js-opt-for-these-alternatives-instead/",
+        "title": "Forget Express.js — opt for these alternatives instead"
+      },
+      {
+        "link": "https://2ality.com/2019/07/global-scope.html",
+        "title": "How do JavaScript’s global variables really work?"
+      },
+      {
+        "link": "https://jasonformat.com/modern-script-loading/",
+        "title": "Modern Script Loading"
+      },
+      {
+        "link": "https://yomguithereal.github.io/posts/lru-cache#the-lru-cache",
+        "title": "Implementing an efficient LRU cache in JavaScript"
+      },
+      {
+        "link": "https://v8.dev/features/weak-references",
+        "title": "Weak references and finalizers"
+      },
+      {
+        "link": "https://medium.com/@it.josephchung/the-10-most-prestigious-programming-contests-and-challenges-43bad918fd4d",
+        "title": "The 10 Most Prestigious Programming Contests and Challenges"
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=kIhITzw0CG8",
+        "title": "I didn't know that - Stefan Judis"
+      }
+    ]
+  }
+]

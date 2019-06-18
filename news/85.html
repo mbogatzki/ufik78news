@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2019-02-16</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="85">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2019-02-16</h2>
+    <p>00. <a href="https://developers.google.com/web/updates/2019/02/hotpath-with-wasm" target="_blank">Link</a> - Replacing a hot path in your app's JavaScript with WebAssembly</p>
+<p>01. <a href="https://www.voorhoede.nl/en/blog/bluetooth-anywhere/" target="_blank">Link</a> - Experimenting with Bluetooth in JavaScript apps on the web, in hybrid apps and React Native</p>
+<p>02. <a href="http://2ality.com/2018/02/ecmascript-2019.html" target="_blank">Link</a> - ECMAScript 2019: the final feature set</p>
+<p>03. <a href="https://medium.freecodecamp.org/codebyte-why-are-explicit-semicolons-important-in-javascript-49550bea0b82" target="_blank">Link</a> - Why explicit semicolons are important in JavaScript</p>
+<p>04. <a href="https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29" target="_blank">Link</a> - Small Functions considered Harmful</p>
+    <img loading="lazy" src="../images/2019-02-16.jpg">
+
+  </body>
+</html>

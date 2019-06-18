@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2017-05-27</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="13">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2017-05-27</h2>
+    <p>00. <a href="http://www.iquilezles.org/www/index.htm" target="_blank">Link</a> - These are written articles on the techniques I develop for my computer graphics experiments, demos, shadertoys and movies</p>
+<p>01. <a href="https://www.youtube.com/watch?v=s8nFqwOho-s" target="_blank">Link</a> - NVScene 2015 Session: How to Create Content with Signed Distance Functions (Johann Korndorfer)</p>
+<p>02. <a href="http://www.creativejs.com/category/demoscene-2/index.html" target="_blank">Link</a> - CreativeJS demoscene</p>
+<p>03. <a href="https://www.chromeexperiments.com/demoscene" target="_blank">Link</a> - Chrome experiments demoscene</p>
+<p>04. <a href="https://acko.net/blog/js1k-demo-the-making-of/" target="_blank">Link</a> - Making of 1K JS Demo</p>
+    
+
+  </body>
+</html>

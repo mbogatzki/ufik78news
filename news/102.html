@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2019-06-29</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="102">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2019-06-29</h2>
+    <p>00. <a href="https://v8.dev/blog/cost-of-javascript-2019" target="_blank">Link</a> - The cost of JavaScript in 2019</p>
+<p>01. <a href="https://www.youtube.com/watch?v=ZrKjgSfpppM" target="_blank">Link</a> - Keep Betting on JavaScript - Kyle Simpson</p>
+<p>02. <a href="https://blog.pragmaticengineer.com/good-code-reviews-better-code-reviews/" target="_blank">Link</a> - Good Code Reviews, Better Code Reviews</p>
+<p>03. <a href="https://blog.logrocket.com/8-dom-features-you-didnt-know-existed-ec2a0a28fd89/" target="_blank">Link</a> - 8 DOM features you didn’t know existed</p>
+    <img loading="lazy" src="../images/2019-06-29.jpg">
+
+  </body>
+</html>

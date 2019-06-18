@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2017-10-07</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="22">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2017-10-07</h2>
+    <p>00. <a href="http://delved.org/What-if-I-told-you-that-HTTP-can-be-fast/#/" target="_blank">Link</a> - What if i told you that http can be fast?</p>
+<p>01. <a href="https://images.guide/" target="_blank">Link</a> - Essential image optimization</p>
+<p>02. <a href="https://v8project.blogspot.com/2017/10/optimizing-proxies.html" target="_blank">Link</a> - Optimizing ES2015 proxies in V8</p>
+<p>03. <a href="https://v8project.blogspot.co.uk/2017/10/lazy-unlinking.html" target="_blank">Link</a> - An Internship on Laziness: Lazy Unlinking of Deoptimized Functions</p>
+<p>04. <a href="http://js13kgames.com/entries/amaz3d" target="_blank">Link</a> - AMAZ3D is a game, made in a few days for js13k 2017 gamejam</p>
+    
+
+  </body>
+</html>
