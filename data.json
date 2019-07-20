@@ -4584,5 +4584,55 @@
         "title": "I didn't know that - Stefan Judis"
       }
     ]
+  },
+  {
+    "date": "2019-07-20",
+    "img": "2019-07-20.jpg",
+    "links": [
+      {
+        "link": "https://levelup.gitconnected.com/node-js-advanced-pattern-dependency-injection-container-fc58a1946638",
+        "title": "Node.js advanced pattern: Dependency Injection Container"
+      },
+      {
+        "link": "https://dassur.ma/things/is-postmessage-slow/",
+        "title": "Is postMessage slow?"
+      },
+      {
+        "link": "https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/",
+        "title": "Functional JavaScript: What are higher-order functions, and why should anyone care?"
+      },
+      {
+        "link": "https://www.dobreprogramy.pl/Blazor-WebAssembly-na-uslugach-Microsoftu-czyli-C-trafi-pod-strzechy-w-aplikacjach-SPA,News,102659.html",
+        "title": "Blazor – WebAssembly na usługach Microsoftu, czyli C# trafi pod strzechy w aplikacjach SPA"
+      },
+      {
+        "link": "https://dev.to/vitalets/what-s-wrong-with-promise-allsettled-and-promise-any-5e6o",
+        "title": "What's wrong with Promise.allSettled() and Promise.any()"
+      },
+      {
+        "link": "https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/",
+        "title": "Intro Guide to Dockerfile Best Practices"
+      },
+      {
+        "link": "https://smashtest.io",
+        "title": "Smashtest is a language for rapidly describing and deploying test cases."
+      },
+      {
+        "link": "https://zepworks.com/posts/faster-better-cheaper-and-re-architecture/",
+        "title": "Faster, cheaper, and better: A story of breaking a monolith"
+      },
+      {
+        "link": "https://medium.com/@erights/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9",
+        "title": "The Tragedy of the Common Lisp"
+      },
+      {
+        "link": "https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/",
+        "title": "Things I Learnt The Hard Way (in 30 Years of Software Development)"
+      },
+      {
+        "link": "http://www.textfiles.com/100/taoprogram.pro",
+        "title": "The Tao Of Programming"
+      }
+    ]
   }
 ]
