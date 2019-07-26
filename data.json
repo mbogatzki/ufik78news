@@ -4634,5 +4634,35 @@
         "title": "The Tao Of Programming"
       }
     ]
+  },
+  {
+    "date": "2019-07-26",
+    "img": "2019-07-26.png",
+    "links": [
+      {
+        "link": "https://www.stefanjudis.com/today-i-learned/node-js-has-a-built-in-debug-method/",
+        "title": "Node.js has a built-in debug log method"
+      },
+      {
+        "link": "https://meiert.com/en/blog/when-to-srcset/",
+        "title": "When to use img, img@srcset, and picture and source"
+      },
+      {
+        "link": "https://dev.to/taillogs/practical-ways-to-write-better-javascript-26d4",
+        "title": "Practical Ways to Write Better JavaScript"
+      },
+      {
+        "link": "http://frankforce.com/?p=6378",
+        "title": "Dissecting A Dweet: Mini Black Hole"
+      },
+      {
+        "link": "https://www.guru99.com/functional-programming-tutorial.html",
+        "title": "What is Functional Programming? Tutorial with Example"
+      },
+      {
+        "link": "https://dev.to/shijiezhou/top-10-javascript-patterns-every-developers-like-168p",
+        "title": "Top 10 JavaScript Patterns Every Developer Like"
+      }
+    ]
   }
 ]

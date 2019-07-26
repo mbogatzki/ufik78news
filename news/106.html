@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News 2019-07-26</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+  </head>
+  <body data-id="last">
+    <script>
+      var current = +document.location.pathname.match(/(\d+).html/)[1];
+      function changeUrl (value) {
+        current += value;
+        location.href = current + '.html';
+      }
+    </script>
+    <header>
+      <button id="prev" onclick="changeUrl(-1)">Prev</button>
+      <button id="next" onclick="changeUrl(1)">Next</button>
+    </header>
+    <h2>2019-07-26</h2>
+    <p>00. <a href="https://www.stefanjudis.com/today-i-learned/node-js-has-a-built-in-debug-method/" target="_blank">Link</a> - Node.js has a built-in debug log method</p>
+<p>01. <a href="https://meiert.com/en/blog/when-to-srcset/" target="_blank">Link</a> - When to use img, img@srcset, and picture and source</p>
+<p>02. <a href="https://dev.to/taillogs/practical-ways-to-write-better-javascript-26d4" target="_blank">Link</a> - Practical Ways to Write Better JavaScript</p>
+<p>03. <a href="http://frankforce.com/?p=6378" target="_blank">Link</a> - Dissecting A Dweet: Mini Black Hole</p>
+<p>04. <a href="https://www.guru99.com/functional-programming-tutorial.html" target="_blank">Link</a> - What is Functional Programming? Tutorial with Example</p>
+<p>05. <a href="https://dev.to/shijiezhou/top-10-javascript-patterns-every-developers-like-168p" target="_blank">Link</a> - Top 10 JavaScript Patterns Every Developer Like</p>
+    <img loading="lazy" src="../images/2019-07-26.png">
+
+  </body>
+</html>
